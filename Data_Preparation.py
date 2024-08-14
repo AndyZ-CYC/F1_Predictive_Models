@@ -27,6 +27,8 @@ def get_race_results(year, race_name):
     session = fastf1.get_session(year, race_name, 'R')
     session.load(telemetry=False)  # Load session data
     results = session.results
+    race_date = session.date  # Get the race date
+    results['RaceDate'] = race_date  # Add the race date to the results DataFrame
     return results
 
 
