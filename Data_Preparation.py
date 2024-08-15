@@ -10,6 +10,89 @@ cache_directory = os.path.join(parent_directory, 'f1_data_cache')  # Path to the
 
 # Enable the cache for faster data retrieval
 fastf1.Cache.enable_cache(cache_directory) 
+# Circuit length mapping (in meters) for circuits used after 2017
+CIRCUIT_LENGTHS = {
+    "adelaide": 3780,
+    "casablanca": 7618,  # Ain-Diab Circuit
+    "aintree": 4828,
+    "melbourne": 5278,  # Albert Park Circuit
+    "portimão": 4653,  # Algarve International Circuit
+    "estoril": 4360,  # Autódromo do Estoril
+    "mexicocity": 4304,  # Autódromo Hermanos Rodríguez
+    "riodejaneiro": 5031,  # Autódromo Internacional do Rio de Janeiro
+    "mugello": 5245,  # Autodromo Internazionale del Mugello
+    "imola": 4909,  # Autodromo Internazionale Enzo e Dino Ferrari
+    "sãopaulo": 4309,  # Autodromo José Carlos Pace
+    "monza": 5793,  # Autodromo Nazionale di Monza
+    "buenosaires": 4259,  # Autódromo Oscar y Juan Gálvez
+    "berlin": 8300,  # AVUS
+    "sakhir": 5412,  # Bahrain International Circuit
+    "baku": 6003,  # Baku City Circuit
+    "westkingsdown": 4206,  # Brands Hatch Circuit
+    "greaternoida": 5141,  # Buddh International Circuit
+    "lemans": 4430,  # Bugatti Au Mans
+    "paradise": 3650,  # Caesars Palace Grand Prix Circuit
+    "saintgeneschampanelle": 8055,  # Charade Circuit
+    "bern": 7208,  # Circuit Bremgarten
+    "montmeló": 4657,  # Circuit de Barcelona-Catalunya
+    "montecarlo": 3337,  # Circuit de Monaco
+    "monaco": 3337,  # Circuit de Monaco
+    "magnycours": 4411,  # Circuit de Nevers Magny-Cours
+    "barcelona": 6316,  # Circuit de Pedralbes
+    "gueux": 8302,  # Circuit de Reims-Gueux
+    "spa-francorchamps": 7004,  # Circuit de Spa-Francorchamps
+    "prenois": 3886,  # Circuit Dijon-Prenois
+    "montréal": 4361,  # Circuit Gilles-Villeneuve
+    "monttremblant": 4265,  # Circuit Mont-Tremblant
+    "austin": 5513,  # Circuit of the Americas
+    "lecastellet": 5842,  # Circuit Paul Ricard
+    "zandvoort": 4259,  # Circuit Zandvoort
+    "heusdenzolder": 4262,  # Circuit Zolder
+    "porto": 7775,  # Circuito da Boavista
+    "lisbon": 5440,  # Circuito de Monsanto
+    "jerez": 4428,  # Circuito Permanente de Jerez
+    "sansebastiandelosreyes": 3314,  # Circuito Permanente del Jarama
+    "dallas": 3901,  # Dallas Fair Park
+    "detroit": 4168,  # Detroit Street Circuit
+    "castledonington": 4020,  # Donington Park
+    "oyama": 4563,  # Fuji Speedway
+    "hockenheim": 4574,  # Hockenheimring
+    "budapest": 4381,  # Hungaroring
+    "speedway": 4192,  # Indianapolis Motor Speedway
+    "istanbul": 5338,  # Intercity Istanbul Park
+    "jeddah": 6174,  # Jeddah Corniche Circuit
+    "yeongam": 5615,  # Korea International Circuit
+    "midrand": 4261,  # Kyalami Grand Prix Circuit
+    "lasvegas": 6201,  # Las Vegas Strip Circuit
+    "longbeach": 3275,  # Long Beach Street Circuit
+    "lusail": 5419,  # Lusail International Circuit
+    "marinabay": 4940,  # Marina Bay Street Circuit
+    "singapore": 4940,  # Marina Bay Street Circuit
+    "miami": 5412,  # Miami International Autodrome
+    "montjuïc": 3791,  # Montjuïc circuit
+    "bowmanville": 3957,  # Mosport International Raceway
+    "nivellesbaulers": 3724,  # Nivelles-Baulers
+    "nürburgring": 5148,  # Nürburgring
+    "pescara": 25800,  # Pescara Circuit
+    "phoenix": 3720,  # Phoenix Street Circuit
+    "eastlondon": 3920,  # Prince George Circuit
+    "spielberg": 4318,  # Red Bull Ring
+    "morenovalley": 5271,  # Riverside International Raceway
+    "orival": 6542,  # Rouen-Les-Essarts
+    "anderstorp": 4031,  # Scandinavian Raceway
+    "sebring": 8356,  # Sebring Raceway
+    "sepang": 5543,  # Sepang International Circuit
+    "shanghai": 5451,  # Shanghai International Circuit
+    "silverstone": 5891,  # Silverstone Circuit
+    "sochi": 5848,  # Sochi Autodrom
+    "suzuka": 5807,  # Suzuka International Racing Course
+    "mimasaka": 3703,  # TI Circuit Aida
+    "valencia": 5419,  # Valencia Street Circuit
+    "watkinsglen": 5430,  # Watkins Glen International
+    "yasmarina": 5281,  # Yas Marina Circuit
+    "yasisland": 5281,  # Yas Marina Circuit
+    "zeltweg": 3186  # Zeltweg Airfield
+}
 
 
 def update_times(results):
@@ -59,9 +142,14 @@ def get_race_results(year, race_name):
     # Update the Time column to the actual complete time
     results = update_times(results)
 
+    # Get the circuit length using the CIRCUIT_LENGTHS dictionary
+    circuit_id = session.event['Location'].lower().replace(' ', '')
+    track_length = CIRCUIT_LENGTHS.get(circuit_id, None)  # None if not found
+
     # Add the race data to the results DataFrame
     results['RaceDate'] = race_date  
     results['TotalLaps'] = total_laps
+    results['LapLength'] = track_length
     return results
 
 
