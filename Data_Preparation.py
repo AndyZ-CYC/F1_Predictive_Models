@@ -12,6 +12,32 @@ cache_directory = os.path.join(parent_directory, 'f1_data_cache')  # Path to the
 fastf1.Cache.enable_cache(cache_directory) 
 
 
+def update_times(results):
+    """
+    Update the Time column in the race results DataFrame to reflect the complete race time for each driver.
+
+    Parameters:
+    results (pd.DataFrame): A DataFrame containing race results, including a Time column. The Time column
+                            contains the complete time for the first-position driver and time differences
+                            for other drivers.
+
+    Returns:
+    pd.DataFrame: The updated DataFrame where the Time column now contains the actual complete race time
+                  for each driver.
+    """
+    if 'Time' not in results.columns or pd.isnull(results.iloc[0]['Time']):
+        return results
+    
+    # Extract the time of the first-position driver
+    base_time = results.iloc[0]['Time']
+    
+    # Update the Time column for all other drivers
+    results['Time'] = results['Time'].apply(
+        lambda x: base_time + x if pd.notnull(x) and x != base_time else x
+    )
+    return results
+
+
 def get_race_results(year, race_name):
     """
     Fetch the race results for a specific race and year.
@@ -28,7 +54,14 @@ def get_race_results(year, race_name):
     session.load(telemetry=False)  # Load session data
     results = session.results
     race_date = session.date  # Get the race date
-    results['RaceDate'] = race_date  # Add the race date to the results DataFrame
+    total_laps = session.total_laps  # Get the total number of laps
+
+    # Update the Time column to the actual complete time
+    results = update_times(results)
+
+    # Add the race data to the results DataFrame
+    results['RaceDate'] = race_date  
+    results['TotalLaps'] = total_laps
     return results
 
 
