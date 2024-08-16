@@ -135,6 +135,7 @@ def get_race_results(year, race_name):
     """
     session = fastf1.get_session(year, race_name, 'R')
     session.load(telemetry=False)  # Load session data
+    # session.load()  # Load session data
     results = session.results
     race_date = session.date  # Get the race date
     total_laps = session.total_laps  # Get the total number of laps
@@ -167,7 +168,7 @@ def get_qualifying_results(year, race_name):
     qualifying = fastf1.get_session(year, race_name, 'Q')
     qualifying.load(telemetry=False)  # Load session data
     qual_results = qualifying.results
-    return qual_results[['DriverId', 'Position', 'Q1', 'Q2', 'Q3']]
+    return qual_results[['FullName', 'Position', 'Q1', 'Q2', 'Q3']]
 
 
 def get_weather_data(year, race_name):
@@ -202,7 +203,7 @@ def merge_race_and_qualifying(race_results, qual_results):
     pd.DataFrame: A DataFrame combining race and qualifying results
     """
     # Merge on common columns such as 'Driver'
-    merged_results = pd.merge(race_results, qual_results, on='DriverId', how='left', suffixes=('_Race', '_Qual'))
+    merged_results = pd.merge(race_results, qual_results, on='FullName', how='left', suffixes=('_Race', '_Qual'))
     return merged_results
 
 
