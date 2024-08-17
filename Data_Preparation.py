@@ -168,6 +168,7 @@ def get_qualifying_results(year, race_name):
     qualifying = fastf1.get_session(year, race_name, 'Q')
     qualifying.load(telemetry=False)  # Load session data
     qual_results = qualifying.results
+    # return qual_results[['DriverId', 'Position', 'Q1', 'Q2', 'Q3']]
     return qual_results[['FullName', 'Position', 'Q1', 'Q2', 'Q3']]
 
 
@@ -202,7 +203,7 @@ def merge_race_and_qualifying(race_results, qual_results):
     Returns:
     pd.DataFrame: A DataFrame combining race and qualifying results
     """
-    # Merge on common columns such as 'Driver'
+    # Merge on common columns, used to be 'DriverId'
     merged_results = pd.merge(race_results, qual_results, on='FullName', how='left', suffixes=('_Race', '_Qual'))
     return merged_results
 
