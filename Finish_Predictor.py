@@ -14,6 +14,7 @@ def data_loader(filepath, columns_to_include, categorical_cols):
     Parameters:
     filepath (str): The path to the CSV file
     columns_to_include (list): List of columns to include in the output data
+    categorical_cols (list): List of categorical columns
 
     Returns:
     pd.DataFrame: loaded DataFrame.
@@ -33,18 +34,19 @@ def data_loader(filepath, columns_to_include, categorical_cols):
     return df
 
 
-def split_data(df):
+def split_data(df, target_column):
     """
     Split the data into training and testing sets
 
     Parameters:
     df (pd.DataFrame): The preprocessed DataFrame
+    target_column (str): The name of the y column
 
     Returns:
     tuple: X_train, X_test, y_train, y_test
     """
-    X = df.drop(columns=['Finished'])
-    y = df['Finished']
+    X = df.drop(columns=[target_column])
+    y = df[target_column]
     
     return train_test_split(X, y, test_size=0.2, random_state=42)
 
@@ -70,7 +72,7 @@ def evaluate_model(model, X_test, y_test):
     Evaluate the trained model on the test set
 
     Parameters:
-    model (RandomForestClassifier): Trained model
+    model: Trained model
     X_test (pd.DataFrame): Test features
     y_test (pd.Series): Test target
 
@@ -95,7 +97,7 @@ def main():
     df = data_loader(filepath, columns_to_include, categorical_cols)
 
     # Split the data
-    X_train, X_test, y_train, y_test = split_data(df)
+    X_train, X_test, y_train, y_test = split_data(df, 'Finished')
 
     model_rf = train_model(X_train, y_train)
 
@@ -110,7 +112,7 @@ def main():
     importance_df = pd.DataFrame({'Feature': features, 'Importance': importances})
     importance_df = importance_df.sort_values(by='Importance', ascending=False)
 
-    print(importance_df.head(5))
+    print(importance_df.head(10))
 
     # plot the top 10 important features
     plot_df = importance_df.head(10)
