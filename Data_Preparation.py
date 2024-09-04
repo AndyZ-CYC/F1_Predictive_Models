@@ -151,6 +151,7 @@ def get_race_results(year, race_name):
     results['RaceDate'] = race_date  
     results['TotalLaps'] = total_laps
     results['LapLength'] = track_length
+    results['CircuitId'] = circuit_id
     return results
 
 
