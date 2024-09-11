@@ -1,0 +1,1361 @@
+RaceDate;Year;RaceName;FullName;DriverId;TeamName;TeamId;GridPosition;Position_Race;Podium_Finish;TotalLength;Time;Speed;Finished;Speed_Predicted
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;290455;5980.382;48.56796773182717;1;51.900968758935804
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;2;1;290455;5982.963;48.54701591836688;1;51.76820371600576
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;6;3;1;290455;5993.088;48.46499834475984;1;51.57150356392173
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;5;4;0;290455;5995.761;48.443391923060304;1;51.63524593694575
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;5;0;290455;6028.339;48.181596953986826;1;51.8356745352862
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Carlos Sainz;sainz;Renault;renault;11;6;0;290455;6052.93;47.98585148019224;1;51.240095993306205
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;8;7;0;290455;6071.171;47.84167667160092;1;51.438079535301
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Sergio Perez;perez;Racing Point;force_india;14;8;0;290455;6071.657;47.83784723017127;1;51.04509347484985
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;7;9;0;290455;6090.775763636363;47.68768565313104;1;51.50259933596059
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;13;10;0;290455;6090.775763636363;47.68768565313104;1;51.106464110210325
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;15;11;0;290455;6090.775763636363;47.68768565313104;1;50.97439377704838
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;16;12;0;290455;6090.775763636363;47.68768565313104;1;50.9115059844863
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Lance Stroll;stroll;Williams;williams;20;13;0;290455;6090.775763636363;47.68768565313104;1;50.64717308740517
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;18;14;0;290455;6090.775763636363;47.68768565313104;1;50.77760067332923
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;19;15;0;290455;6090.775763636363;47.68768565313104;1;50.71245226372918
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;17;16;0;290455;;;0;50.84610241008586
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;9;17;0;290455;;;0;51.37398369602869
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;12;18;0;290455;;;0;51.17476879710261
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;4;19;0;290455;;;0;51.702170512382274
+11/25/2018 13:10;2018;Abu Dhabi Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;10;20;0;290455;;;0;51.307860222952115
+3/25/2018 5:10;2018;Australian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;1;1;306124;5373.283;56.97150140798465;1;54.57835033050597
+3/25/2018 5:10;2018;Australian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;2;1;306124;5378.319;56.91815602607432;1;54.71111537343601
+3/25/2018 5:10;2018;Australian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;2;3;1;306124;5379.592;56.90468719560889;1;54.644073939964514
+3/25/2018 5:10;2018;Australian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;8;4;0;306124;5380.352;56.89664914117144;1;54.24775733182292
+3/25/2018 5:10;2018;Australian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;10;5;0;306124;5401.169;56.67736003076372;1;54.11393242425366
+3/25/2018 5:10;2018;Australian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;6;0;306124;5402.228;56.66624955481331;1;54.51340699150397
+3/25/2018 5:10;2018;Australian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;7;0;306124;5405.954;56.62719290619195;1;54.315642057075365
+3/25/2018 5:10;2018;Australian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;15;8;0;306124;5407.622;56.60972604963882;1;53.789401864753216
+3/25/2018 5:10;2018;Australian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;11;9;0;306124;5408.204;56.603634034514975;1;54.048896133616545
+3/25/2018 5:10;2018;Australian Grand Prix;Carlos Sainz;sainz;Renault;renault;9;10;0;306124;5419.005;56.49081335042134;1;54.181999420888445
+3/25/2018 5:10;2018;Australian Grand Prix;Sergio Perez;perez;Force India;force_india;12;11;0;306124;5420.1;56.479400749063664;1;53.98699690243209
+3/25/2018 5:10;2018;Australian Grand Prix;Esteban Ocon;ocon;Force India;force_india;14;12;0;306124;5433.561;56.33947976290319;1;53.85473827782382
+3/25/2018 5:10;2018;Australian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;18;13;0;306124;5449.042;56.17941649192647;1;53.58944208439106
+3/25/2018 5:10;2018;Australian Grand Prix;Lance Stroll;stroll;Williams;williams;13;14;0;306124;5451.571;56.15335469353696;1;53.918468547692484
+3/25/2018 5:10;2018;Australian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;16;15;0;306124;5467.275603448276;55.99205567886936;1;53.7216525989865
+3/25/2018 5:10;2018;Australian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;6;16;0;306124;;;0;54.37862435700181
+3/25/2018 5:10;2018;Australian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;5;17;0;306124;;;0;54.443637977038655
+3/25/2018 5:10;2018;Australian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;20;18;0;306124;;;0;53.45861380496303
+3/25/2018 5:10;2018;Australian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;17;19;0;306124;;;0;53.65552337889774
+3/25/2018 5:10;2018;Australian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;19;20;0;306124;;;0;53.522598878229395
+7/1/2018 13:10;2018;Austrian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;1;1;306578;4916.024;62.36299904150183;1;54.59933454553689
+7/1/2018 13:10;2018;Austrian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;3;2;1;306578;4917.528;62.34392564719509;1;54.664123087456424
+7/1/2018 13:10;2018;Austrian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;6;3;1;306578;4919.205;62.322672057781695;1;54.46664266491585
+7/1/2018 13:10;2018;Austrian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;5;4;0;306578;4985.308577464789;61.49629360674522;1;54.53043031757576
+7/1/2018 13:10;2018;Austrian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;8;5;0;306578;4985.308577464789;61.49629360674522;1;54.33193031144854
+7/1/2018 13:10;2018;Austrian Grand Prix;Esteban Ocon;ocon;Force India;force_india;11;6;0;306578;4985.308577464789;61.49629360674522;1;54.138301051479786
+7/1/2018 13:10;2018;Austrian Grand Prix;Sergio Perez;perez;Force India;force_india;16;7;0;306578;4985.308577464789;61.49629360674522;1;53.809410830300955
+7/1/2018 13:10;2018;Austrian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;13;8;0;306578;4985.308577464789;61.49629360674522;1;54.00222475866354
+7/1/2018 13:10;2018;Austrian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;18;9;0;306578;4985.308577464789;61.49629360674522;1;53.67536963842399
+7/1/2018 13:10;2018;Austrian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;20;10;0;306578;4985.308577464789;61.49629360674522;1;53.54381571330762
+7/1/2018 13:10;2018;Austrian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;12;11;0;306578;4985.308577464789;61.49629360674522;1;54.071568611324075
+7/1/2018 13:10;2018;Austrian Grand Prix;Carlos Sainz;sainz;Renault;renault;9;12;0;306578;4985.308577464789;61.49629360674522;1;54.26792697492137
+7/1/2018 13:10;2018;Austrian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;17;13;0;306578;5054.593154929577;60.653348469995976;1;53.74028324534435
+7/1/2018 13:10;2018;Austrian Grand Prix;Lance Stroll;stroll;Williams;williams;14;14;0;306578;5054.593154929577;60.653348469995976;1;53.938517695184395
+7/1/2018 13:10;2018;Austrian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;15;15;0;306578;;;1;53.87131006148541
+7/1/2018 13:10;2018;Austrian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;16;0;306578;;;0;54.73116452092792
+7/1/2018 13:10;2018;Austrian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;19;17;0;306578;;;0;53.609944933396385
+7/1/2018 13:10;2018;Austrian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;7;18;0;306578;;;0;54.399563292396856
+7/1/2018 13:10;2018;Austrian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;19;0;306578;;;0;54.79762711036035
+7/1/2018 13:10;2018;Austrian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;10;20;0;306578;;;0;54.20393439148525
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;306153;6224.291;49.18680697930093;1;54.63734253390053
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;6;2;1;306153;6226.751;49.1673747673546;1;54.37266588080598
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Sergio Perez;perez;Force India;force_india;8;3;1;306153;6228.315;49.1550282861416;1;54.242616095601676
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;4;0;306153;6229.62;49.14473113929903;1;54.70221271059353
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Carlos Sainz;sainz;Renault;renault;9;5;0;306153;6231.806;49.12749209458703;1;54.174104987893976
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;13;6;0;306153;6233.449;49.11454316863746;1;53.91093968410166
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;12;7;0;306153;6235.222;49.10057733309255;1;53.97428117817716
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Lance Stroll;stroll;Williams;williams;10;8;0;306153;6236.837;49.08786296643635;1;54.10820933432106
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;16;9;0;306153;6238.443;49.07522598186759;1;53.711609667917
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;19;10;0;306153;6242.321;49.04473832729845;1;53.51612294636899
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;18;11;0;306153;6242.803;49.04095163662861;1;53.581750539362254
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;17;12;0;306153;6249.011;48.99223253087568;1;53.648354591591605
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;15;13;0;306153;6264.954;48.86755752715822;1;53.77695947863403
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;14;0;306153;;;0;54.57204831025093
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;20;15;0;306153;;;0;53.448432232433134
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;16;0;306153;;;0;54.439634151968484
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;4;17;0;306153;;;0;54.503376524992504
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;14;18;0;306153;;;0;53.84659877829379
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Esteban Ocon;ocon;Force India;force_india;7;19;0;306153;;;0;54.30799269061645
+4/29/2018 12:10;2018;Azerbaijan Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;11;20;0;306153;;;0;54.041731697563044
+4/8/2018 15:10;2018;Bahrain Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;1;1;308484;5521.94;55.86514884261691;1;55.11544507666431
+4/8/2018 15:10;2018;Bahrain Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;2;1;308484;5522.639;55.85807799495857;1;54.98528067632171
+4/8/2018 15:10;2018;Bahrain Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;9;3;1;308484;5528.452;55.79934491608139;1;54.5894260541842
+4/8/2018 15:10;2018;Bahrain Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;5;4;0;308484;5584.174;55.24254795785375;1;54.85212783615456
+4/8/2018 15:10;2018;Bahrain Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;6;5;0;308484;5596.986;55.1160928399678;1;54.78309750357395
+4/8/2018 15:10;2018;Bahrain Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;6;0;308484;5620.964;54.880977711296495;1;54.720979990151676
+4/8/2018 15:10;2018;Bahrain Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;13;7;0;308484;5620.964;54.880977711296495;1;54.32163513770693
+4/8/2018 15:10;2018;Bahrain Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;14;8;0;308484;5620.964;54.880977711296495;1;54.25659884706981
+4/8/2018 15:10;2018;Bahrain Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;17;9;0;308484;5620.964;54.880977711296495;1;54.06086131197405
+4/8/2018 15:10;2018;Bahrain Grand Prix;Esteban Ocon;ocon;Force India;force_india;8;10;0;308484;5620.964;54.880977711296495;1;54.655346650146214
+4/8/2018 15:10;2018;Bahrain Grand Prix;Carlos Sainz;sainz;Renault;renault;10;11;0;308484;5620.964;54.880977711296495;1;54.52145894742374
+4/8/2018 15:10;2018;Bahrain Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;19;12;0;308484;5620.964;54.880977711296495;1;53.92890161092635
+4/8/2018 15:10;2018;Bahrain Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;16;13;0;308484;5620.964;54.880977711296495;1;54.12517822466798
+4/8/2018 15:10;2018;Bahrain Grand Prix;Lance Stroll;stroll;Williams;williams;20;14;0;308484;5620.964;54.880977711296495;1;53.86265763498169
+4/8/2018 15:10;2018;Bahrain Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;18;15;0;308484;5620.964;54.880977711296495;1;53.993815217846716
+4/8/2018 15:10;2018;Bahrain Grand Prix;Sergio Perez;perez;Force India;force_india;12;16;0;308484;5620.964;54.880977711296495;1;54.3923348355084
+4/8/2018 15:10;2018;Bahrain Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;11;17;0;308484;5620.964;54.880977711296495;1;54.456382564767885
+4/8/2018 15:10;2018;Bahrain Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;2;18;0;308484;;;0;55.049411873040825
+4/8/2018 15:10;2018;Bahrain Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;15;19;0;308484;;;0;54.19408245262911
+4/8/2018 15:10;2018;Bahrain Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;4;20;0;308484;;;0;54.916608891063284
+8/26/2018 13:10;2018;Belgian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;1;1;308176;5014.476;61.45726891503719;1;55.01658799992845
+8/26/2018 13:10;2018;Belgian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;2;1;308176;5025.537;61.322003996786805;1;55.083474636317476
+8/26/2018 13:10;2018;Belgian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;7;3;1;308176;5045.848;61.07516516549845;1;54.688131034762385
+8/26/2018 13:10;2018;Belgian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;19;4;0;308176;5078.081;60.68749198762288;1;53.89824750147062
+8/26/2018 13:10;2018;Belgian Grand Prix;Sergio Perez;perez;Racing Point;force_india;4;5;0;308176;5085.499;60.59896973728635;1;54.886383417641674
+8/26/2018 13:10;2018;Belgian Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;3;6;0;308176;5093.996;60.49788810199301;1;54.95176001265644
+8/26/2018 13:10;2018;Belgian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;5;7;0;308176;5100.429;60.42158414517681;1;54.81686202642429
+8/26/2018 13:10;2018;Belgian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;9;8;0;308176;5102.115;60.40161776047776;1;54.55248361375606
+8/26/2018 13:10;2018;Belgian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;10;9;0;308176;5120.368;60.18629910975148;1;54.48975713325464
+8/26/2018 13:10;2018;Belgian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;13;10;0;308176;5130.848;60.06336574383026;1;54.29139626794326
+8/26/2018 13:10;2018;Belgian Grand Prix;Carlos Sainz;sainz;Renault;renault;14;11;0;308176;5130.848;60.06336574383026;1;54.22496665106483
+8/26/2018 13:10;2018;Belgian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;16;12;0;308176;5130.848;60.06336574383026;1;54.0925933607339
+8/26/2018 13:10;2018;Belgian Grand Prix;Lance Stroll;stroll;Williams;williams;17;13;0;308176;5130.848;60.06336574383026;1;54.02731418440989
+8/26/2018 13:10;2018;Belgian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;11;14;0;308176;5130.848;60.06336574383026;1;54.42340389457304
+8/26/2018 13:10;2018;Belgian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;18;15;0;308176;5130.848;60.06336574383026;1;53.960106550710904
+8/26/2018 13:10;2018;Belgian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;8;16;0;308176;;;0;54.62011659470438
+8/26/2018 13:10;2018;Belgian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;6;17;0;308176;;;0;54.75291957668192
+8/26/2018 13:10;2018;Belgian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;12;18;0;308176;;;0;54.35707178651861
+8/26/2018 13:10;2018;Belgian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;15;19;0;308176;;;0;54.15689965443005
+8/26/2018 13:10;2018;Belgian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;20;20;0;308176;;;0;53.831582034923635
+11/11/2018 17:10;2018;Brazilian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;305939;5229.066;58.50738927372498;1;54.67679313815157
+11/11/2018 17:10;2018;Brazilian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;2;1;305939;5230.535;58.490957425961206;1;54.413206349678504
+11/11/2018 17:10;2018;Brazilian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;4;3;1;305939;5233.83;58.454133970725074;1;54.47799489159804
+11/11/2018 17:10;2018;Brazilian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;11;4;0;305939;5234.259;58.449343068426685;1;54.01579987691542
+11/11/2018 17:10;2018;Brazilian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;5;0;305939;5252.009;58.251804214349214;1;54.54562050796095
+11/11/2018 17:10;2018;Brazilian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;6;0;305939;5256.063;58.20687461318481;1;54.60990650176254
+11/11/2018 17:10;2018;Brazilian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;7;7;0;305939;5273.265;58.01699705969641;1;54.27978232105778
+11/11/2018 17:10;2018;Brazilian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;8;8;0;305939;5280.296;57.939744287062695;1;54.212545308635335
+11/11/2018 17:10;2018;Brazilian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;10;9;0;305939;5281.923;57.92189700607147;1;54.07992370904913
+11/11/2018 17:10;2018;Brazilian Grand Prix;Sergio Perez;perez;Racing Point;force_india;12;10;0;305939;5303.45928169014;57.68668782962757;1;53.95267466714764
+11/11/2018 17:10;2018;Brazilian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;16;11;0;305939;5303.45928169014;57.68668782962757;1;53.68733036370206
+11/11/2018 17:10;2018;Brazilian Grand Prix;Carlos Sainz;sainz;Renault;renault;15;12;0;305939;5303.45928169014;57.68668782962757;1;53.752406746357906
+11/11/2018 17:10;2018;Brazilian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;9;13;0;305939;5303.45928169014;57.68668782962757;1;54.14895404162974
+11/11/2018 17:10;2018;Brazilian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;20;14;0;305939;5303.45928169014;57.68668782962757;1;53.42166823946297
+11/11/2018 17:10;2018;Brazilian Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;18;15;0;305939;5303.45928169014;57.68668782962757;1;53.556902416375316
+11/11/2018 17:10;2018;Brazilian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;14;16;0;305939;5377.852563380282;56.8886923533843;1;53.81766867565002
+11/11/2018 17:10;2018;Brazilian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;17;17;0;305939;5377.852563380282;56.8886923533843;1;53.61846134318211
+11/11/2018 17:10;2018;Brazilian Grand Prix;Lance Stroll;stroll;Williams;williams;19;18;0;305939;5377.852563380282;56.8886923533843;1;53.48887587316195
+11/11/2018 17:10;2018;Brazilian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;13;19;0;305939;;;0;53.88604938254483
+11/11/2018 17:10;2018;Brazilian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;6;20;0;305939;;;0;54.34586361556446
+7/8/2018 13:10;2018;British Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;1;1;306332;5249.784;58.35135312233799;1;54.68555594556728
+7/8/2018 13:10;2018;British Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;2;1;306332;5252.048;58.32619960822902;1;54.75244258195631
+7/8/2018 13:10;2018;British Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;3;3;1;306332;5253.436;58.31078935766992;1;54.6195227419438
+7/8/2018 13:10;2018;British Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;4;0;306332;5258.667;58.25278535415914;1;54.55539154522468
+7/8/2018 13:10;2018;British Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;6;5;0;306332;5259.284;58.24595135003168;1;54.420841353425246
+7/8/2018 13:10;2018;British Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;11;6;0;306332;5278.004;58.03936488111794;1;54.0934556394316
+7/8/2018 13:10;2018;British Grand Prix;Esteban Ocon;ocon;Force India;force_india;10;7;0;306332;5279.714;58.020567023138;1;54.159579112508176
+7/8/2018 13:10;2018;British Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;13;8;0;306332;5280.899;58.00754757854676;1;53.95762441315091
+7/8/2018 13:10;2018;British Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;7;9;0;306332;5282.972;57.984785836457206;1;54.35320837247692
+7/8/2018 13:10;2018;British Grand Prix;Sergio Perez;perez;Force India;force_india;12;10;0;306332;5284.492;57.96810743587084;1;54.02832411095238
+7/8/2018 13:10;2018;British Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;17;11;0;306332;5285.558;57.95641633295861;1;53.694952902890755
+7/8/2018 13:10;2018;British Grand Prix;Lance Stroll;stroll;Williams;williams;19;12;0;306332;5287.89;57.93085710935741;1;53.56452531696669
+7/8/2018 13:10;2018;British Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;14;13;0;306332;5288.913;57.91965192091457;1;53.89521145272941
+7/8/2018 13:10;2018;British Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;18;14;0;306332;5297.897;57.82143367453161;1;53.629804493290706
+7/8/2018 13:10;2018;British Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;15;0;306332;;;0;54.488855793483246
+7/8/2018 13:10;2018;British Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;8;16;0;306332;;;0;54.28819475244008
+7/8/2018 13:10;2018;British Grand Prix;Carlos Sainz;sainz;Renault;renault;16;17;0;306332;;;0;53.76217778362164
+7/8/2018 13:10;2018;British Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;15;18;0;306332;;;0;53.82860740050007
+7/8/2018 13:10;2018;British Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;9;19;0;306332;;;0;54.22367495178049
+7/8/2018 13:10;2018;British Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;20;20;0;306332;;;0;53.49946618134274
+6/10/2018 18:10;2018;Canadian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;1;1;305270;5311.377;57.47473771867445;1;54.55651259866238
+6/10/2018 18:10;2018;Canadian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;305270;5318.753;57.39503225662106;1;54.49222660486079
+6/10/2018 18:10;2018;Canadian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;3;1;305270;5319.737;57.38441580852587;1;54.42569085311936
+6/10/2018 18:10;2018;Canadian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;6;4;0;305270;5332.269;57.24954986329459;1;54.22591959997933
+6/10/2018 18:10;2018;Canadian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;4;5;0;305270;5332.936;57.24238955802208;1;54.359885608887346
+6/10/2018 18:10;2018;Canadian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;5;6;0;305270;5338.561;57.182075844033626;1;54.29284417541585
+6/10/2018 18:10;2018;Canadian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;7;0;305270;5387.642157142857;56.6611499234925;1;54.16204751214975
+6/10/2018 18:10;2018;Canadian Grand Prix;Carlos Sainz;sainz;Renault;renault;9;8;0;305270;5387.642157142857;56.6611499234925;1;54.02840487596282
+6/10/2018 18:10;2018;Canadian Grand Prix;Esteban Ocon;ocon;Force India;force_india;8;9;0;305270;5387.642157142857;56.6611499234925;1;54.096414172144286
+6/10/2018 18:10;2018;Canadian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;13;10;0;305270;5387.642157142857;56.6611499234925;1;53.765239572170515
+6/10/2018 18:10;2018;Canadian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;16;11;0;305270;5387.642157142857;56.6611499234925;1;53.56853288620147
+6/10/2018 18:10;2018;Canadian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;20;12;0;305270;5387.642157142857;56.6611499234925;1;53.302732120501986
+6/10/2018 18:10;2018;Canadian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;11;13;0;305270;5387.642157142857;56.6611499234925;1;53.89477299286695
+6/10/2018 18:10;2018;Canadian Grand Prix;Sergio Perez;perez;Force India;force_india;10;14;0;305270;5387.642157142857;56.6611499234925;1;53.9651591705885
+6/10/2018 18:10;2018;Canadian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;19;15;0;305270;5463.907314285715;55.87027422699012;1;53.37017202089009
+6/10/2018 18:10;2018;Canadian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;15;16;0;305270;5463.907314285715;55.87027422699012;1;53.631787962526865
+6/10/2018 18:10;2018;Canadian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;18;17;0;305270;5463.907314285715;55.87027422699012;1;53.43488273984479
+6/10/2018 18:10;2018;Canadian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;14;18;0;305270;;;0;53.69682425316398
+6/10/2018 18:10;2018;Canadian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;12;19;0;305270;;;0;53.83157168022495
+6/10/2018 18:10;2018;Canadian Grand Prix;Lance Stroll;stroll;Williams;williams;17;20;0;305270;;;0;53.501360376602804
+4/15/2018 6:10;2018;Chinese Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;6;1;1;305256;5736.38;53.21404788385706;1;54.22027562379728
+4/15/2018 6:10;2018;Chinese Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;2;1;305256;5745.274;53.131669612276106;1;54.42070422213772
+4/15/2018 6:10;2018;Chinese Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;2;3;1;305256;5746.017;53.124799317509854;1;54.484835418856846
+4/15/2018 6:10;2018;Chinese Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;4;4;0;305256;5753.365;53.05695015004263;1;54.354241632705296
+4/15/2018 6:10;2018;Chinese Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;5;0;305256;5756.816;53.02514445485144;1;54.28829006385528
+4/15/2018 6:10;2018;Chinese Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;6;0;305256;5757.432;53.01947118090149;1;54.1564035359677
+4/15/2018 6:10;2018;Chinese Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;13;7;0;305256;5767.019;52.93133246136349;1;53.75705868352294
+4/15/2018 6:10;2018;Chinese Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;8;0;305256;5771.666;52.88871532067171;1;54.55086862248033
+4/15/2018 6:10;2018;Chinese Grand Prix;Carlos Sainz;sainz;Renault;renault;9;9;0;305256;5772.143;52.88434468792613;1;54.02276089978077
+4/15/2018 6:10;2018;Chinese Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;11;10;0;305256;5775.974;52.84926836582021;1;53.8891290166849
+4/15/2018 6:10;2018;Chinese Grand Prix;Esteban Ocon;ocon;Force India;force_india;12;11;0;305256;5780.43;52.80852808528085;1;53.82725656979818
+4/15/2018 6:10;2018;Chinese Grand Prix;Sergio Perez;perez;Force India;force_india;8;12;0;305256;5781.105;52.802362178164906;1;54.09127200748848
+4/15/2018 6:10;2018;Chinese Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;14;13;0;305256;5785.753;52.75994326062658;1;53.69202239288583
+4/15/2018 6:10;2018;Chinese Grand Prix;Lance Stroll;stroll;Williams;williams;18;14;0;305256;5791.87;52.70422160718386;1;53.42983799387974
+4/15/2018 6:10;2018;Chinese Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;16;15;0;305256;5794.621;52.67920024450262;1;53.560995576744766
+4/15/2018 6:10;2018;Chinese Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;20;16;0;305256;5798.984;52.639565827393206;1;53.29864963816703
+4/15/2018 6:10;2018;Chinese Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;10;17;0;305256;5801.676;52.61514086619108;1;53.95587220973008
+4/15/2018 6:10;2018;Chinese Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;17;18;0;305256;5802.71;52.60576523727706;1;53.4970105034784
+4/15/2018 6:10;2018;Chinese Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;19;19;0;305256;5818.955;52.45890370350003;1;53.364325156742375
+4/15/2018 6:10;2018;Chinese Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;15;20;0;305256;;;1;53.62829248441985
+6/24/2018 14:10;2018;French Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;309626;5411.385;57.21751455496143;1;55.33805770998492
+6/24/2018 14:10;2018;French Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;2;1;309626;5418.475;57.14264622426051;1;55.14034932805288
+6/24/2018 14:10;2018;French Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;6;3;1;309626;5437.273;56.945089937547735;1;55.007502650349366
+6/24/2018 14:10;2018;French Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;5;4;0;309626;5446.121;56.85257452047063;1;55.07233488799488
+6/24/2018 14:10;2018;French Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;5;0;309626;5473.32;56.57005254580401;1;55.20529266705488
+6/24/2018 14:10;2018;French Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;9;6;0;309626;5490.749;56.39048515967494;1;54.80706668742351
+6/24/2018 14:10;2018;French Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;7;0;309626;5492.017;56.37746569247692;1;55.27276348633532
+6/24/2018 14:10;2018;French Grand Prix;Carlos Sainz;sainz;Renault;renault;7;8;0;309626;5498.569;56.31028727656231;1;54.94069857051939
+6/24/2018 14:10;2018;French Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;12;9;0;309626;5503.374;56.26112272217007;1;54.6131923609192
+6/24/2018 14:10;2018;French Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;8;10;0;309626;5505.258;56.24186913674164;1;54.87516848635012
+6/24/2018 14:10;2018;French Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;10;11;0;309626;5515.257792452831;56.13989620280258;1;54.742053067386664
+6/24/2018 14:10;2018;French Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;17;12;0;309626;5515.257792452831;56.13989620280258;1;54.28056803091937
+6/24/2018 14:10;2018;French Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;15;13;0;309626;5515.257792452831;56.13989620280258;1;54.41422252852868
+6/24/2018 14:10;2018;French Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;20;14;0;309626;5515.257792452831;56.13989620280258;1;54.085081309371354
+6/24/2018 14:10;2018;French Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;18;15;0;309626;5515.257792452831;56.13989620280258;1;54.21541962131932
+6/24/2018 14:10;2018;French Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;16;16;0;309626;;;1;54.34560432155648
+6/24/2018 14:10;2018;French Grand Prix;Lance Stroll;stroll;Williams;williams;19;17;0;309626;;;1;54.15014044499531
+6/24/2018 14:10;2018;French Grand Prix;Sergio Perez;perez;Force India;force_india;13;18;0;309626;;;0;54.54806083243999
+6/24/2018 14:10;2018;French Grand Prix;Esteban Ocon;ocon;Force India;force_india;11;19;0;309626;;;0;54.67931583399577
+6/24/2018 14:10;2018;French Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;14;20;0;309626;;;0;54.48082658075803
+7/22/2018 13:10;2018;German Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;14;1;1;306458;5549.845;55.21919981549034;1;53.909109580073654
+7/22/2018 13:10;2018;German Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;306458;5554.38;55.17411484270072;1;54.70023464145724
+7/22/2018 13:10;2018;German Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;3;3;1;306458;5556.577;55.15229969817749;1;54.63260902509433
+7/22/2018 13:10;2018;German Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;4;0;306458;5557.499;55.143149823328805;1;54.5678204831748
+7/22/2018 13:10;2018;German Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;5;0;306458;5576.454;54.955711999058906;1;54.3700555487462
+7/22/2018 13:10;2018;German Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;6;6;0;306458;5578.716;54.933429125985256;1;54.43303784867265
+7/22/2018 13:10;2018;German Grand Prix;Sergio Perez;perez;Force India;force_india;10;7;0;306458;5580.401;54.91684199755537;1;54.17316720718495
+7/22/2018 13:10;2018;German Grand Prix;Esteban Ocon;ocon;Force India;force_india;15;8;0;306458;5581.595;54.905094332354814;1;53.84327336295364
+7/22/2018 13:10;2018;German Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;13;9;0;306458;5582.207;54.89907486411736;1;53.97345049673263
+7/22/2018 13:10;2018;German Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;17;10;0;306458;5584.042;54.88103420425562;1;53.71018768411633
+7/22/2018 13:10;2018;German Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;5;11;0;306458;5584.764;54.87393916734888;1;54.49805146870949
+7/22/2018 13:10;2018;German Grand Prix;Carlos Sainz;sainz;Renault;renault;8;12;0;306458;5592.914;54.79397680708125;1;54.30229131910029
+7/22/2018 13:10;2018;German Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;19;13;0;306458;5596.462;54.75923896204423;1;53.57628237295926
+7/22/2018 13:10;2018;German Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;16;14;0;306458;5633.374283582089;54.40043295066359;1;53.77654092279792
+7/22/2018 13:10;2018;German Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;9;15;0;306458;5633.374283582089;54.40043295066359;1;54.23676123493103
+7/22/2018 13:10;2018;German Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;11;16;0;306458;;;1;54.10246750938348
+7/22/2018 13:10;2018;German Grand Prix;Lance Stroll;stroll;Williams;williams;18;17;0;306458;;;0;53.64349000665824
+7/22/2018 13:10;2018;German Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;18;0;306458;;;0;54.76452063525883
+7/22/2018 13:10;2018;German Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;12;19;0;306458;;;0;54.03816121568733
+7/22/2018 13:10;2018;German Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;20;20;0;306458;;;0;53.51162994500157
+7/29/2018 13:10;2018;Hungarian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;306670;5836.427;52.54413359406363;1;54.80217970634104
+7/29/2018 13:10;2018;Hungarian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;4;2;1;306670;5853.55;52.39042973921808;1;54.60353625686999
+7/29/2018 13:10;2018;Hungarian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;3;3;1;306670;5856.528;52.36378960366961;1;54.66925986632853
+7/29/2018 13:10;2018;Hungarian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;12;4;0;306670;5882.846;52.12953050275326;1;54.07530803856389
+7/29/2018 13:10;2018;Hungarian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;5;0;306670;5886.427;52.09781757252745;1;54.73688548269144
+7/29/2018 13:10;2018;Hungarian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;6;6;0;306670;5909.7;51.892651065197896;1;54.471975829442265
+7/29/2018 13:10;2018;Hungarian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;9;7;0;306670;5920.851285714285;51.79491684581361;1;54.27118868377963
+7/29/2018 13:10;2018;Hungarian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;11;8;0;306670;5920.851285714285;51.79491684581361;1;54.13911835061767
+7/29/2018 13:10;2018;Hungarian Grand Prix;Carlos Sainz;sainz;Renault;renault;5;9;0;306670;5920.851285714285;51.79491684581361;1;54.536577379957535
+7/29/2018 13:10;2018;Hungarian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;10;10;0;306670;5920.851285714285;51.79491684581361;1;54.20617506374278
+7/29/2018 13:10;2018;Hungarian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;8;11;0;306670;5920.851285714285;51.79491684581361;1;54.339744184219654
+7/29/2018 13:10;2018;Hungarian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;13;12;0;306670;5920.851285714285;51.79491684581361;1;54.01143595073431
+7/29/2018 13:10;2018;Hungarian Grand Prix;Esteban Ocon;ocon;Force India;force_india;18;13;0;306670;5920.851285714285;51.79491684581361;1;53.68228898456479
+7/29/2018 13:10;2018;Hungarian Grand Prix;Sergio Perez;perez;Force India;force_india;19;14;0;306670;5920.851285714285;51.79491684581361;1;53.616912389550016
+7/29/2018 13:10;2018;Hungarian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;14;15;0;306670;6005.275571428571;51.06676560507072;1;53.94422293142581
+7/29/2018 13:10;2018;Hungarian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;20;16;0;306670;6005.275571428571;51.06676560507072;1;53.54778480459341
+7/29/2018 13:10;2018;Hungarian Grand Prix;Lance Stroll;stroll;Williams;williams;15;17;0;306670;6005.275571428571;51.06676560507072;1;53.877776067515484
+7/29/2018 13:10;2018;Hungarian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;16;18;0;306670;;;0;53.8105684338165
+7/29/2018 13:10;2018;Hungarian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;7;19;0;306670;;;0;54.40683610478595
+7/29/2018 13:10;2018;Hungarian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;17;20;0;306670;;;0;53.746384823837104
+9/2/2018 13:10;2018;Italian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;1;1;307029;4614.484;66.53593337846658;1;54.746956434902515
+9/2/2018 13:10;2018;Italian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;1;2;1;307029;4623.189;66.4106529064678;1;54.877550221054065
+9/2/2018 13:10;2018;Italian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;3;1;307029;4628.55;66.3337330265418;1;54.68166221125291
+9/2/2018 13:10;2018;Italian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;4;0;307029;4630.635;66.30386545257832;1;54.81182661159552
+9/2/2018 13:10;2018;Italian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;5;0;307029;4632.692;66.27442532333252;1;54.61512645951149
+9/2/2018 13:10;2018;Italian Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;8;6;0;307029;4672.245;65.71337761611389;1;54.417606591618444
+9/2/2018 13:10;2018;Italian Grand Prix;Sergio Perez;perez;Racing Point;force_india;14;7;0;307029;4673.162;65.70048288503587;1;54.022837963898596
+9/2/2018 13:10;2018;Italian Grand Prix;Carlos Sainz;sainz;Renault;renault;7;8;0;307029;4692.624;65.4279993453556;1;54.48135410851901
+9/2/2018 13:10;2018;Italian Grand Prix;Lance Stroll;stroll;Williams;williams;10;9;0;307029;4703.024075471699;65.28331453825398;1;54.28370164186406
+9/2/2018 13:10;2018;Italian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;12;10;0;307029;4703.024075471699;65.28331453825398;1;54.15134559856504
+9/2/2018 13:10;2018;Italian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;15;11;0;307029;4703.024075471699;65.28331453825398;1;53.95467517856264
+9/2/2018 13:10;2018;Italian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;17;12;0;307029;4703.024075471699;65.28331453825398;1;53.82122356891899
+9/2/2018 13:10;2018;Italian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;20;13;0;307029;4703.024075471699;65.28331453825398;1;53.62682064659071
+9/2/2018 13:10;2018;Italian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;9;14;0;307029;4703.024075471699;65.28331453825398;1;54.350874151462726
+9/2/2018 13:10;2018;Italian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;18;15;0;307029;4703.024075471699;65.28331453825398;1;53.757242846905264
+9/2/2018 13:10;2018;Italian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;11;16;0;307029;4703.024075471699;65.28331453825398;1;54.2159654123411
+9/2/2018 13:10;2018;Italian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;19;17;0;307029;;;0;53.69069273442029
+9/2/2018 13:10;2018;Italian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;13;18;0;307029;;;0;54.08389507917915
+9/2/2018 13:10;2018;Italian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;16;19;0;307029;;;0;53.88925047353504
+9/2/2018 13:10;2018;Italian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;6;20;0;307029;4670.804;65.7336509945611;0;54.54622223155035
+10/7/2018 5:10;2018;Japanese Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;307771;5237.062;58.76787404846458;1;55.00791268777695
+10/7/2018 5:10;2018;Japanese Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;307771;5249.981;58.62325977941634;1;54.94261846412735
+10/7/2018 5:10;2018;Japanese Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;3;1;307771;5251.357;58.60789887261521;1;54.87608271238592
+10/7/2018 5:10;2018;Japanese Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;15;4;0;307771;5256.557;58.54992155511678;1;54.08340580037675
+10/7/2018 5:10;2018;Japanese Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;4;5;0;307771;5288.06;58.20111723391943;1;54.80911444122343
+10/7/2018 5:10;2018;Japanese Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;8;6;0;307771;5306.935;57.99411524731318;1;54.54575561214184
+10/7/2018 5:10;2018;Japanese Grand Prix;Sergio Perez;perez;Racing Point;force_india;9;7;0;307771;5316.441;57.89041954946928;1;54.48142943639608
+10/7/2018 5:10;2018;Japanese Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;5;8;0;307771;5324.26;57.805403943458806;1;54.74130007788377
+10/7/2018 5:10;2018;Japanese Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;11;9;0;307771;5325.117;57.79610100585583;1;54.34917081178781
+10/7/2018 5:10;2018;Japanese Grand Prix;Carlos Sainz;sainz;Renault;renault;13;10;0;307771;5337.5359056603775;57.66162615854508;1;54.215283109065325
+10/7/2018 5:10;2018;Japanese Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;7;11;0;307771;5337.5359056603775;57.66162615854508;1;54.61183040433716
+10/7/2018 5:10;2018;Japanese Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;20;12;0;307771;5337.5359056603775;57.66162615854508;1;53.75468547361564
+10/7/2018 5:10;2018;Japanese Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;6;13;0;307771;5337.5359056603775;57.66162615854508;1;54.6772339787376
+10/7/2018 5:10;2018;Japanese Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;18;14;0;307771;5337.5359056603775;57.66162615854508;1;53.88370248626648
+10/7/2018 5:10;2018;Japanese Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;19;15;0;307771;5337.5359056603775;57.66162615854508;1;53.81866619562937
+10/7/2018 5:10;2018;Japanese Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;17;16;0;307771;5337.5359056603775;57.66162615854508;1;53.951153005652365
+10/7/2018 5:10;2018;Japanese Grand Prix;Lance Stroll;stroll;Williams;williams;14;17;0;307771;5337.5359056603775;57.66162615854508;1;54.14938745549241
+10/7/2018 5:10;2018;Japanese Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;10;18;0;307771;;;0;54.41326665106012
+10/7/2018 5:10;2018;Japanese Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;16;19;0;307771;;;0;54.01953371254717
+10/7/2018 5:10;2018;Japanese Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;12;20;0;307771;;;0;54.27928644559249
+10/28/2018 19:10;2018;Mexican Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;1;1;305584;5908.851;51.71631506700711;1;54.54217995947071
+10/28/2018 19:10;2018;Mexican Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;4;2;1;305584;5926.167;51.56520226311543;1;54.40948807884966
+10/28/2018 19:10;2018;Mexican Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;6;3;1;305584;5958.765;51.28310983903543;1;54.27757646868517
+10/28/2018 19:10;2018;Mexican Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;4;0;305584;5987.589;51.03623511901034;1;54.47637471523869
+10/28/2018 19:10;2018;Mexican Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;5;5;0;305584;5993.183239436619;50.98859617526495;1;54.34520208504808
+10/28/2018 19:10;2018;Mexican Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;6;0;305584;6077.515478873239;50.28107309019224;1;54.212658211960076
+10/28/2018 19:10;2018;Mexican Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;9;7;0;305584;6077.515478873239;50.28107309019224;1;54.079363898144905
+10/28/2018 19:10;2018;Mexican Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;15;8;0;305584;6077.515478873239;50.28107309019224;1;53.6823986623372
+10/28/2018 19:10;2018;Mexican Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;10;9;0;305584;6077.515478873239;50.28107309019224;1;54.01368837956956
+10/28/2018 19:10;2018;Mexican Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;20;10;0;305584;6077.515478873239;50.28107309019224;1;53.35562995984774
+10/28/2018 19:10;2018;Mexican Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;11;11;0;305584;6077.515478873239;50.28107309019224;1;53.949389652331575
+10/28/2018 19:10;2018;Mexican Grand Prix;Lance Stroll;stroll;Williams;williams;17;12;0;305584;6077.515478873239;50.28107309019224;1;53.55197107641313
+10/28/2018 19:10;2018;Mexican Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;19;13;0;305584;6077.515478873239;50.28107309019224;1;53.419615033114106
+10/28/2018 19:10;2018;Mexican Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;14;14;0;305584;6077.515478873239;50.28107309019224;1;53.75042556695325
+10/28/2018 19:10;2018;Mexican Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;15;0;305584;6077.515478873239;50.28107309019224;1;53.6159916599722
+10/28/2018 19:10;2018;Mexican Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;18;16;0;305584;6161.8477183098585;49.59291660064248;1;53.48509963339435
+10/28/2018 19:10;2018;Mexican Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;1;17;0;305584;;;0;54.605922332494735
+10/28/2018 19:10;2018;Mexican Grand Prix;Sergio Perez;perez;Racing Point;force_india;13;18;0;305584;;;0;53.81813465077578
+10/28/2018 19:10;2018;Mexican Grand Prix;Carlos Sainz;sainz;Renault;renault;8;19;0;305584;;;0;54.14489398231417
+10/28/2018 19:10;2018;Mexican Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;12;20;0;305584;;;0;53.87919176605634
+5/27/2018 13:10;2018;Monaco Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;1;1;1;260286;6174.807;42.152896438706506;1;46.49760136543696
+5/27/2018 13:10;2018;Monaco Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;2;1;260286;6182.143;42.10287597682551;1;46.43292392487392
+5/27/2018 13:10;2018;Monaco Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;3;1;260286;6191.82;42.03707472116438;1;46.36805374818091
+5/27/2018 13:10;2018;Monaco Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;4;4;0;260286;6192.934;42.02951299012713;1;46.30101231470942
+5/27/2018 13:10;2018;Monaco Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;5;5;0;260286;6193.629;42.024796771004524;1;46.2368811179903
+5/27/2018 13:10;2018;Monaco Grand Prix;Esteban Ocon;ocon;Force India;force_india;6;6;0;260286;6198.474;41.99194834083357;1;46.17046071797887
+5/27/2018 13:10;2018;Monaco Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;10;7;0;260286;6199.138;41.98745051328104;1;45.90609305820011
+5/27/2018 13:10;2018;Monaco Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;11;8;0;260286;6199.646;41.98401005476765;1;45.84082361873824
+5/27/2018 13:10;2018;Monaco Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;20;9;0;260286;6200.124;41.98077328776005;1;45.24804767467466
+5/27/2018 13:10;2018;Monaco Grand Prix;Carlos Sainz;sainz;Renault;renault;8;10;0;260286;6243.82;41.68698008590895;1;46.036573015256394
+5/27/2018 13:10;2018;Monaco Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;16;11;0;260286;6244.671;41.6812991429012;1;45.51009697326569
+5/27/2018 13:10;2018;Monaco Grand Prix;Sergio Perez;perez;Force India;force_india;9;12;0;260286;6245.268;41.677314728527264;1;45.973327309882066
+5/27/2018 13:10;2018;Monaco Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;19;13;0;260286;6249.63;41.64822557495404;1;45.31003547329138
+5/27/2018 13:10;2018;Monaco Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;12;14;0;260286;6254.930461538462;41.61293264577399;1;45.771712914902466
+5/27/2018 13:10;2018;Monaco Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;18;15;0;260286;6254.930461538462;41.61293264577399;1;45.37677866633657
+5/27/2018 13:10;2018;Monaco Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;13;16;0;260286;6254.930461538462;41.61293264577399;1;45.70656450530242
+5/27/2018 13:10;2018;Monaco Grand Prix;Lance Stroll;stroll;Williams;williams;17;17;0;260286;6335.053923076923;41.08662738478785;1;45.44365010935536
+5/27/2018 13:10;2018;Monaco Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;14;18;0;260286;;;0;45.64165089838205
+5/27/2018 13:10;2018;Monaco Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;15;19;0;260286;;;0;45.57622619335445
+5/27/2018 13:10;2018;Monaco Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;7;20;0;260286;;;0;46.10026283170364
+9/30/2018 11:10;2018;Russian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;309944;5245.181;59.09119246790531;1;55.32668853735259
+9/30/2018 11:10;2018;Russian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;2;1;309944;5247.726;59.06253489606737;1;55.39315112678502
+9/30/2018 11:10;2018;Russian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;3;1;309944;5252.668;59.00696560300404;1;55.259801900963566
+9/30/2018 11:10;2018;Russian Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;4;4;0;309944;5261.724;58.90540818940712;1;55.19376869734008
+9/30/2018 11:10;2018;Russian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;19;5;0;309944;5276.197;58.74382628245306;1;54.206682463846334
+9/30/2018 11:10;2018;Russian Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;18;6;0;309944;5325.632;58.19853868986817;1;54.27042483687036
+9/30/2018 11:10;2018;Russian Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;7;7;0;309944;5343.571;58.00315931050603;1;54.99555612679982
+9/30/2018 11:10;2018;Russian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;5;8;0;309944;5346.003094339622;57.9767715301494;1;55.12508954749625
+9/30/2018 11:10;2018;Russian Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;6;9;0;309944;5346.003094339622;57.9767715301494;1;55.063217100609535
+9/30/2018 11:10;2018;Russian Grand Prix;Sergio Perez;perez;Racing Point;force_india;8;10;0;309944;5346.003094339622;57.9767715301494;1;54.93196209905374
+9/30/2018 11:10;2018;Russian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;9;11;0;309944;5346.003094339622;57.9767715301494;1;54.86244070783636
+9/30/2018 11:10;2018;Russian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;12;12;0;309944;5346.003094339622;57.9767715301494;1;54.66770159482789
+9/30/2018 11:10;2018;Russian Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;10;13;0;309944;5346.003094339622;57.9767715301494;1;54.79812379514244
+9/30/2018 11:10;2018;Russian Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;16;14;0;309944;5346.003094339622;57.9767715301494;1;54.40011355546516
+9/30/2018 11:10;2018;Russian Grand Prix;Lance Stroll;stroll;Williams;williams;14;15;0;309944;5346.003094339622;57.9767715301494;1;54.53404171160906
+9/30/2018 11:10;2018;Russian Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;15;16;0;309944;5446.825188679245;56.90360701206123;1;54.46683407791008
+9/30/2018 11:10;2018;Russian Grand Prix;Carlos Sainz;sainz;Renault;renault;11;17;0;309944;5446.825188679245;56.90360701206123;1;54.73169417826401
+9/30/2018 11:10;2018;Russian Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;13;18;0;309944;5446.825188679245;56.90360701206123;1;54.599320887933075
+9/30/2018 11:10;2018;Russian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;17;19;0;309944;;;0;54.337700595043664
+9/30/2018 11:10;2018;Russian Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;20;20;0;309944;;;0;54.139590543280036
+9/16/2018 12:10;2018;Singapore Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;301340;6671.611;45.16750152249584;1;53.840792283376764
+9/16/2018 12:10;2018;Singapore Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;2;1;301340;6680.572;45.106915994618426;1;53.77484071452675
+9/16/2018 12:10;2018;Singapore Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;3;1;301340;6711.595;44.898418334240965;1;53.708027240446725
+9/16/2018 12:10;2018;Singapore Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;4;0;301340;6723.541;44.81864541318332;1;53.643741246645135
+9/16/2018 12:10;2018;Singapore Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;5;5;0;301340;6724.612;44.81150734049786;1;53.576115630282224
+9/16/2018 12:10;2018;Singapore Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;6;6;0;301340;6725.593;44.80497110068956;1;53.5091910548457
+9/16/2018 12:10;2018;Singapore Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;11;7;0;301340;6774.612;44.48077616843592;1;53.1777309276534
+9/16/2018 12:10;2018;Singapore Grand Prix;Carlos Sainz;sainz;Renault;renault;12;8;0;301340;6782.670213114754;44.42793037723383;1;53.114041111206156
+9/16/2018 12:10;2018;Singapore Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;13;9;0;301340;6782.670213114754;44.42793037723383;1;53.04851102703689
+9/16/2018 12:10;2018;Singapore Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;10;10;0;301340;6782.670213114754;44.42793037723383;1;53.247683747393076
+9/16/2018 12:10;2018;Singapore Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;14;11;0;301340;6782.670213114754;44.42793037723383;1;52.98283550846154
+9/16/2018 12:10;2018;Singapore Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;18;12;0;301340;6782.670213114754;44.42793037723383;1;52.71742419777019
+9/16/2018 12:10;2018;Singapore Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;15;13;0;301340;6782.670213114754;44.42793037723383;1;52.91768274760886
+9/16/2018 12:10;2018;Singapore Grand Prix;Lance Stroll;stroll;Williams;williams;20;14;0;301340;6782.670213114754;44.42793037723383;1;52.58699661184613
+9/16/2018 12:10;2018;Singapore Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;8;15;0;301340;6782.670213114754;44.42793037723383;1;53.37654445386054
+9/16/2018 12:10;2018;Singapore Grand Prix;Sergio Perez;perez;Racing Point;force_india;7;16;0;301340;6782.670213114754;44.42793037723383;1;53.44606584507792
+9/16/2018 12:10;2018;Singapore Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;17;17;0;301340;6782.670213114754;44.42793037723383;1;52.78545110238625
+9/16/2018 12:10;2018;Singapore Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;18;0;301340;6893.729426229508;43.71218847862679;1;52.84865241502825
+9/16/2018 12:10;2018;Singapore Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;19;19;0;301340;6893.729426229508;43.71218847862679;1;52.65227578817015
+9/16/2018 12:10;2018;Singapore Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;9;20;0;301340;;;0;53.31380722046965
+5/13/2018 13:10;2018;Spanish Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;416856;5729.972;72.75009371773545;1;74.518776131284
+5/13/2018 13:10;2018;Spanish Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;416856;5750.565;72.48957276371975;1;74.4534819076344
+5/13/2018 13:10;2018;Spanish Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;3;1;416856;5756.845;72.4104956794911;1;74.25518934281094
+5/13/2018 13:10;2018;Spanish Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;4;0;416856;5757.556;72.40155371480539;1;74.38601108835395
+5/13/2018 13:10;2018;Spanish Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;6;5;0;416856;5780.03;72.1200408994417;1;74.18717490275294
+5/13/2018 13:10;2018;Spanish Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;7;6;0;416856;5817.548212121212;71.65492829633203;1;74.11954192180461
+5/13/2018 13:10;2018;Spanish Grand Prix;Carlos Sainz;sainz;Renault;renault;9;7;0;416856;5817.548212121212;71.65492829633203;1;73.98966017873643
+5/13/2018 13:10;2018;Spanish Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;8;8;0;416856;5817.548212121212;71.65492829633203;1;74.05334999518368
+5/13/2018 13:10;2018;Spanish Grand Prix;Sergio Perez;perez;Force India;force_india;15;9;0;416856;5905.124424242424;70.59224667454471;1;73.59702244065703
+5/13/2018 13:10;2018;Spanish Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;14;10;0;416856;5905.124424242424;70.59224667454471;1;73.6606164684031
+5/13/2018 13:10;2018;Spanish Grand Prix;Lance Stroll;stroll;Williams;williams;18;11;0;416856;5905.124424242424;70.59224667454471;1;73.3967372728354
+5/13/2018 13:10;2018;Spanish Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;20;12;0;416856;5905.124424242424;70.59224667454471;1;73.26579973067044
+5/13/2018 13:10;2018;Spanish Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;17;13;0;416856;5905.124424242424;70.59224667454471;1;73.46318413674572
+5/13/2018 13:10;2018;Spanish Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;19;14;0;416856;5992.7006363636365;69.56062471576216;1;73.33025963607739
+5/13/2018 13:10;2018;Spanish Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;11;15;0;416856;;;0;73.85655689146454
+5/13/2018 13:10;2018;Spanish Grand Prix;Esteban Ocon;ocon;Force India;force_india;13;16;0;416856;;;0;73.72827744221283
+5/13/2018 13:10;2018;Spanish Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;4;17;0;416856;;;0;74.31997788473048
+5/13/2018 13:10;2018;Spanish Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;10;18;0;416856;;;0;73.92277148868574
+5/13/2018 13:10;2018;Spanish Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;12;19;0;416856;;;0;73.79330181513913
+5/13/2018 13:10;2018;Spanish Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;16;20;0;416856;;;0;73.53039715605422
+10/21/2018 18:10;2018;United States Grand Prix;Kimi R??ikk??nen;raikkonen;Ferrari;ferrari;2;1;1;308728;5658.643;54.55866362306298;1;55.10587996165155
+10/21/2018 18:10;2018;United States Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;18;2;1;308728;5659.924;54.54631546289314;1;54.052915321616794
+10/21/2018 18:10;2018;United States Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;3;1;308728;5660.985;54.53609221716716;1;55.17292139512305
+10/21/2018 18:10;2018;United States Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;5;4;0;308728;5676.865;54.383537392557336;1;54.908399539110974
+10/21/2018 18:10;2018;United States Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;5;0;308728;5683.387;54.321129284351045;1;55.04174876493243
+10/21/2018 18:10;2018;United States Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;6;0;308728;5745.853;53.73057751390437;1;54.777448078762404
+10/21/2018 18:10;2018;United States Grand Prix;Carlos Sainz;sainz;Renault;renault;11;7;0;308728;5753.637;53.65788630739131;1;54.51204862949345
+10/21/2018 18:10;2018;United States Grand Prix;Sergio Perez;perez;Racing Point;force_india;10;8;0;308728;5759.723;53.60118880717007;1;54.580559737201156
+10/21/2018 18:10;2018;United States Grand Prix;Brendon Hartley;brendon_hartley;Toro Rosso;toro_rosso;20;9;0;308728;5761.495196428571;53.584701448917976;1;53.91994499450948
+10/21/2018 18:10;2018;United States Grand Prix;Marcus Ericsson;ericsson;Sauber;sauber;16;10;0;308728;5761.495196428571;53.584701448917976;1;54.18320780712579
+10/21/2018 18:10;2018;United States Grand Prix;Stoffel Vandoorne;vandoorne;McLaren;mclaren;17;11;0;308728;5761.495196428571;53.584701448917976;1;54.11543171605749
+10/21/2018 18:10;2018;United States Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;19;12;0;308728;5761.495196428571;53.584701448917976;1;53.98629823319108
+10/21/2018 18:10;2018;United States Grand Prix;Sergey Sirotkin;sirotkin;Williams;williams;14;13;0;308728;5761.495196428571;53.584701448917976;1;54.3137969326215
+10/21/2018 18:10;2018;United States Grand Prix;Lance Stroll;stroll;Williams;williams;15;14;0;308728;5864.347392857143;52.644903058784514;1;54.24851775629749
+10/21/2018 18:10;2018;United States Grand Prix;Charles Leclerc;leclerc;Sauber;sauber;9;15;0;308728;;;0;54.64415376494723
+10/21/2018 18:10;2018;United States Grand Prix;Daniel Ricciardo;ricciardo;Red Bull Racing;red_bull;4;16;0;308728;;;0;54.97307697967401
+10/21/2018 18:10;2018;United States Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;8;17;0;308728;;;0;54.70867356560682
+10/21/2018 18:10;2018;United States Grand Prix;Fernando Alonso;alonso;McLaren;mclaren;13;18;0;308728;;;0;54.37810322631765
+10/21/2018 18:10;2018;United States Grand Prix;Esteban Ocon;ocon;Racing Point;force_india;6;19;0;308728;;;0;54.84357155183898
+10/21/2018 18:10;2018;United States Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;12;20;0;308728;;;0;54.44429515293859
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;290455;5645.715;51.4469823574162;1;51.900968758935804
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;2;1;290455;5662.487;51.29459899863787;1;51.835017190085786
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;3;3;1;290455;5689.15;51.05419966075776;1;51.767659400265615
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;20;4;0;290455;5690.094;51.04572964875448;1;50.64986321754793
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;4;5;0;290455;5710.072;50.86713442492494;1;51.70232530946475
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;5;6;0;290455;5714.92;50.8239835378273;1;51.636327818166635
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Sergio Perez;perez;Racing Point;racing_point;10;7;0;290455;5749.622636363637;50.51722841130648;1;51.30975841313453
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Lando Norris;norris;McLaren;mclaren;6;8;0;290455;5749.622636363637;50.51722841130648;1;51.56710213191088
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;13;9;0;290455;5749.622636363637;50.51722841130648;1;51.10881035807143
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;8;10;0;290455;5749.622636363637;50.51722841130648;1;51.43537046748898
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;7;11;0;290455;5749.622636363637;50.51722841130648;1;51.50328347155136
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;9;12;0;290455;5749.622636363637;50.51722841130648;1;51.373738629493126
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;17;13;0;290455;5749.622636363637;50.51722841130648;1;50.843869174507034
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;14;14;0;290455;5749.622636363637;50.51722841130648;1;51.040585703669315
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;15;15;0;290455;5749.622636363637;50.51722841130648;1;50.97557208363247
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;16;16;0;290455;5749.622636363637;50.51722841130648;1;50.90846013008238
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;George Russell;russell;Williams;williams;18;17;0;290455;5749.622636363637;50.51722841130648;1;50.777550430642954
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;11;18;0;290455;5853.530272727273;49.620483104578085;1;51.24137284933195
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Robert Kubica;kubica;Williams;williams;19;19;0;290455;5853.530272727273;49.620483104578085;1;50.71248466465349
+12/1/2019 13:10;2019;Abu Dhabi Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;12;20;0;290455;;;0;51.17780345675004
+3/17/2019 5:10;2019;Australian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;1;1;306124;5127.325;59.70442677224479;1;54.645821149786414
+3/17/2019 5:10;2019;Australian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;2;1;306124;5148.211;59.46220929950229;1;54.71111537343601
+3/17/2019 5:10;2019;Australian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;3;1;306124;5149.845;59.44334246953064;1;54.51340699150397
+3/17/2019 5:10;2019;Australian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;4;0;306124;5184.434;59.04675418763166;1;54.57835033050597
+3/17/2019 5:10;2019;Australian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;5;5;0;306124;5185.528;59.034296989621886;1;54.4460492016838
+3/17/2019 5:10;2019;Australian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;7;6;0;306124;5214.481;58.70651364920114;1;54.31188116395663
+3/17/2019 5:10;2019;Australian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;11;7;0;306124;5217.229844827586;58.67558246518397;1;54.05212843091131
+3/17/2019 5:10;2019;Australian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;9;8;0;306124;5217.229844827586;58.67558246518397;1;54.181043041335364
+3/17/2019 5:10;2019;Australian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;16;9;0;306124;5217.229844827586;58.67558246518397;1;53.72443644508619
+3/17/2019 5:10;2019;Australian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;15;10;0;306124;5217.229844827586;58.67558246518397;1;53.78720015948961
+3/17/2019 5:10;2019;Australian Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;17;11;0;306124;5217.229844827586;58.67558246518397;1;53.65607761251905
+3/17/2019 5:10;2019;Australian Grand Prix;Lando Norris;norris;McLaren;mclaren;8;12;0;306124;5217.229844827586;58.67558246518397;1;54.245491933329056
+3/17/2019 5:10;2019;Australian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;10;13;0;306124;5217.229844827586;58.67558246518397;1;54.119905027634736
+3/17/2019 5:10;2019;Australian Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;13;14;0;306124;5217.229844827586;58.67558246518397;1;53.91961859240575
+3/17/2019 5:10;2019;Australian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;14;15;0;306124;5217.229844827586;58.67558246518397;1;53.85036355766462
+3/17/2019 5:10;2019;Australian Grand Prix;George Russell;russell;Williams;williams;19;16;0;306124;5307.134689655172;57.68159617216917;1;53.52181863860215
+3/17/2019 5:10;2019;Australian Grand Prix;Robert Kubica;kubica;Williams;williams;20;17;0;306124;5397.039534482758;56.72072588020023;1;53.45675287261268
+3/17/2019 5:10;2019;Australian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;6;18;0;306124;;;0;54.37862435700181
+3/17/2019 5:10;2019;Australian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;12;19;0;306124;;;0;53.984038053346495
+3/17/2019 5:10;2019;Australian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;18;20;0;306124;;;0;53.58673301657904
+6/30/2019 13:10;2019;Austrian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;1;1;306578;4921.822;62.289534241587766;1;54.73109135861892
+6/30/2019 13:10;2019;Austrian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;2;1;306578;4924.546;62.25507894534846;1;54.79549038188078
+6/30/2019 13:10;2019;Austrian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;3;1;306578;4940.782;62.05050131740279;1;54.665870297278325
+6/30/2019 13:10;2019;Austrian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;9;4;0;306578;4941.432;62.04233914379476;1;54.26900744529281
+6/30/2019 13:10;2019;Austrian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;4;5;0;306578;4944.627;62.00225011916975;1;54.59940770784589
+6/30/2019 13:10;2019;Austrian Grand Prix;Lando Norris;norris;McLaren;mclaren;5;6;0;306578;4991.464633802817;61.42044920519236;1;54.52905470698503
+6/30/2019 13:10;2019;Austrian Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;8;7;0;306578;4991.464633802817;61.42044920519236;1;54.33491082542111
+6/30/2019 13:10;2019;Austrian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;19;8;0;306578;4991.464633802817;61.42044920519236;1;53.60678216407095
+6/30/2019 13:10;2019;Austrian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;6;9;0;306578;4991.464633802817;61.42044920519236;1;54.46460581499133
+6/30/2019 13:10;2019;Austrian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;7;10;0;306578;4991.464633802817;61.42044920519236;1;54.39743995748465
+6/30/2019 13:10;2019;Austrian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;13;11;0;306578;4991.464633802817;61.42044920519236;1;54.00819736204462
+6/30/2019 13:10;2019;Austrian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;12;12;0;306578;4991.464633802817;61.42044920519236;1;54.06996560737942
+6/30/2019 13:10;2019;Austrian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;15;13;0;306578;4991.464633802817;61.42044920519236;1;53.874542358780175
+6/30/2019 13:10;2019;Austrian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;14;14;0;306578;4991.464633802817;61.42044920519236;1;53.942120812201146
+6/30/2019 13:10;2019;Austrian Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;18;15;0;306578;4991.464633802817;61.42044920519236;1;53.676154113733595
+6/30/2019 13:10;2019;Austrian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;11;16;0;306578;4991.464633802817;61.42044920519236;1;54.13515987832967
+6/30/2019 13:10;2019;Austrian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;16;17;0;306578;4991.464633802817;61.42044920519236;1;53.80724930698152
+6/30/2019 13:10;2019;Austrian Grand Prix;George Russell;russell;Williams;williams;20;18;0;306578;5061.107267605634;60.57528200642928;1;53.54186778609406
+6/30/2019 13:10;2019;Austrian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;10;19;0;306578;5061.107267605634;60.57528200642928;1;54.2001734983665
+6/30/2019 13:10;2019;Austrian Grand Prix;Robert Kubica;kubica;Williams;williams;17;20;0;306578;5130.749901408451;59.753058693396994;1;53.740315646268655
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;1;1;306153;5512.942;55.53350642905367;1;54.703805123332955
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;2;1;306153;5514.466;55.5181589658908;1;54.63734253390053
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;3;1;306153;5524.681;55.4155072482918;1;54.5704558975115
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;4;0;306153;5530.435;55.357851597568725;1;54.505512558509494
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;8;5;0;306153;5582.049;54.845989349072354;1;54.240519549066285
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Sergio Perez;perez;Racing Point;racing_point;5;6;0;306153;5589.358;54.774269245233526;1;54.44140262734535
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;9;7;0;306153;5596.768;54.70174929530758;1;54.171744242453705
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Lando Norris;norris;McLaren;mclaren;7;8;0;306153;5613.21;54.54151902387404;1;54.303475906875605
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;13;9;0;306153;5616.758;54.5070661758972;1;53.91417723171477
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;20;10;0;306153;5623.0745098039215;54.44583732017374;1;53.44848613638973
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;11;11;0;306153;5623.0745098039215;54.44583732017374;1;54.043480972493306
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;17;12;0;306153;5623.0745098039215;54.44583732017374;1;53.64483390504711
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;12;13;0;306153;5623.0745098039215;54.44583732017374;1;53.97459469825708
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;15;14;0;306153;5623.0745098039215;54.44583732017374;1;53.78072037175278
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;George Russell;russell;Williams;williams;16;15;0;306153;5733.207019607843;53.39995554895228;1;53.711559425230725
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Robert Kubica;kubica;Williams;williams;20;16;0;306153;5733.207019607843;53.39995554895228;1;53.44885843961821
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;20;17;0;306153;;;0;53.450547959901535
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;14;18;0;306153;;;0;53.843702671679225
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;6;19;0;306153;;;0;54.372211385364274
+4/28/2019 12:10;2019;Azerbaijan Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;10;20;0;306153;;;0;54.107900433434054
+3/31/2019 15:10;2019;Bahrain Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;1;1;308484;5661.295;54.49000626181819;1;54.98469649343029
+3/31/2019 15:10;2019;Bahrain Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;2;1;308484;5664.275;54.4613388297708;1;54.91940226978069
+3/31/2019 15:10;2019;Bahrain Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;3;1;308484;5667.426;54.431059179246446;1;55.114900760924165
+3/31/2019 15:10;2019;Bahrain Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;4;0;308484;5667.703;54.428398947510125;1;54.852866518039264
+3/31/2019 15:10;2019;Bahrain Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;5;0;308484;5697.363;54.14504920960802;1;55.04956667012329
+3/31/2019 15:10;2019;Bahrain Grand Prix;Lando Norris;norris;McLaren;mclaren;9;6;0;308484;5707.049;54.05315426589118;1;54.58495145986435
+3/31/2019 15:10;2019;Bahrain Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;8;7;0;308484;5708.765;54.03690640620169;1;54.652259380952685
+3/31/2019 15:10;2019;Bahrain Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;13;8;0;308484;5719.389;53.93653063290502;1;54.32492917175942
+3/31/2019 15:10;2019;Bahrain Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;12;9;0;308484;5723.992;53.89315708337817;1;54.39083493202307
+3/31/2019 15:10;2019;Bahrain Grand Prix;Sergio Perez;perez;Racing Point;racing_point;14;10;0;308484;5724.991;53.88375283035379;1;54.26172933454699
+3/31/2019 15:10;2019;Bahrain Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;16;11;0;308484;5725.894;53.87525511300069;1;54.1239446776589
+3/31/2019 15:10;2019;Bahrain Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;15;12;0;308484;5761.749280701754;53.539990195898994;1;54.19253809256592
+3/31/2019 15:10;2019;Bahrain Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;6;13;0;308484;5761.749280701754;53.539990195898994;1;54.78309750357395
+3/31/2019 15:10;2019;Bahrain Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;18;14;0;308484;5761.749280701754;53.539990195898994;1;53.99801756508047
+3/31/2019 15:10;2019;Bahrain Grand Prix;George Russell;russell;Williams;williams;19;15;0;308484;5761.749280701754;53.539990195898994;1;53.92715657167846
+3/31/2019 15:10;2019;Bahrain Grand Prix;Robert Kubica;kubica;Williams;williams;20;16;0;308484;5862.2035614035085;52.62253293813356;1;53.86209080568899
+3/31/2019 15:10;2019;Bahrain Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;17;17;0;308484;;;0;54.06219592474152
+3/31/2019 15:10;2019;Bahrain Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;10;18;0;308484;;;0;54.521132799504834
+3/31/2019 15:10;2019;Bahrain Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;19;0;308484;;;0;54.71673342160651
+3/31/2019 15:10;2019;Bahrain Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;11;20;0;308484;;;0;54.45457025737305
+9/1/2019 13:10;2019;Belgian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;1;1;308176;5025.71;61.31989310963028;1;55.08192209072932
+9/1/2019 13:10;2019;Belgian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;2;1;308176;5026.691;61.30792602927055;1;54.95171782323545
+9/1/2019 13:10;2019;Belgian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;3;1;308176;5038.295;61.16672406042123;1;54.88642359958585
+9/1/2019 13:10;2019;Belgian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;4;0;308176;5052.132;60.9991979623652;1;55.01658799992845
+9/1/2019 13:10;2019;Belgian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;17;5;0;308176;5107.035;60.34342823184098;1;54.028292817056126
+9/1/2019 13:10;2019;Belgian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;7;6;0;308176;5110.158;60.30655020842799;1;54.68989951013925
+9/1/2019 13:10;2019;Belgian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;19;7;0;308176;5115.367;60.245139791534015;1;53.89604579620701
+9/1/2019 13:10;2019;Belgian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;12;8;0;308176;5132.349;60.04579969133042;1;54.35860928725175
+9/1/2019 13:10;2019;Belgian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;13;9;0;308176;5134.878;60.01622628619415;1;54.2921219136316
+9/1/2019 13:10;2019;Belgian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;16;10;0;308176;5135.548;60.008396377562825;1;54.09679570796765
+9/1/2019 13:10;2019;Belgian Grand Prix;Lando Norris;norris;McLaren;mclaren;11;11;0;308176;;;1;54.42021597658748
+9/1/2019 13:10;2019;Belgian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;8;12;0;308176;5142.427;59.92812343276823;1;54.61836202029708
+9/1/2019 13:10;2019;Belgian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;9;13;0;308176;5142.427;59.92812343276823;1;54.553348400260234
+9/1/2019 13:10;2019;Belgian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;10;14;0;308176;5142.427;59.92812343276823;1;54.48815412930999
+9/1/2019 13:10;2019;Belgian Grand Prix;George Russell;russell;Williams;williams;14;15;0;308176;5142.427;59.92812343276823;1;54.22356993418869
+9/1/2019 13:10;2019;Belgian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;6;16;0;308176;5142.427;59.92812343276823;1;54.75103752383987
+9/1/2019 13:10;2019;Belgian Grand Prix;Robert Kubica;kubica;Williams;williams;20;17;0;308176;5142.427;59.92812343276823;1;53.82911213549415
+9/1/2019 13:10;2019;Belgian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;18;0;308176;;;1;53.95920919438203
+9/1/2019 13:10;2019;Belgian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;15;19;0;308176;;;0;54.15672749908355
+9/1/2019 13:10;2019;Belgian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;20;0;308176;;;0;54.81988784784441
+11/17/2019 17:10;2019;Brazilian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;1;1;1;305939;5594.678;54.68393355256549;1;54.676719975842566
+11/17/2019 17:10;2019;Brazilian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;6;2;1;305939;5600.755;54.62459971914501;1;54.34658926125279
+11/17/2019 17:10;2019;Brazilian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;20;3;1;305939;5603.574;54.59711962401139;1;53.42065396821256
+11/17/2019 17:10;2019;Brazilian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;8;4;0;305939;5604.13;54.59170290482198;1;54.21259921259193
+11/17/2019 17:10;2019;Brazilian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;12;5;0;305939;5604.879;54.58440762057486;1;53.94779813546221
+11/17/2019 17:10;2019;Brazilian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;11;6;0;305939;5605.219;54.58109665295861;1;54.01559422460306
+11/17/2019 17:10;2019;Brazilian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;7;0;305939;5605.817;54.575274219618656;1;54.54503632506953
+11/17/2019 17:10;2019;Brazilian Grand Prix;Lando Norris;norris;McLaren;mclaren;10;8;0;305939;5605.882;54.574641421278585;1;54.07941288496258
+11/17/2019 17:10;2019;Brazilian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;15;9;0;305939;5606.207;54.57147764968365;1;53.75619075964522
+11/17/2019 17:10;2019;Brazilian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;16;10;0;305939;5606.609;54.56756481502456;1;53.68699951766415
+11/17/2019 17:10;2019;Brazilian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;9;11;0;305939;5607.41;54.55977001860039;1;54.14580211559015
+11/17/2019 17:10;2019;Brazilian Grand Prix;George Russell;russell;Williams;williams;18;12;0;305939;5608.277;54.55133546363705;1;53.55337480985872
+11/17/2019 17:10;2019;Brazilian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;7;13;0;305939;5608.925;54.54503313914877;1;54.27842371517635
+11/17/2019 17:10;2019;Brazilian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;5;14;0;305939;5609.605;54.538421154430665;1;54.4121521973824
+11/17/2019 17:10;2019;Brazilian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;13;15;0;305939;5612.737;54.50798781414486;1;53.88604938254483
+11/17/2019 17:10;2019;Brazilian Grand Prix;Robert Kubica;kubica;Williams;williams;19;16;0;305939;5673.730633802817;53.92201705475476;1;53.48830904386925
+11/17/2019 17:10;2019;Brazilian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;17;0;305939;;;1;54.60990650176254
+11/17/2019 17:10;2019;Brazilian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;14;18;0;305939;;;1;53.818821307530214
+11/17/2019 17:10;2019;Brazilian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;17;19;0;305939;;;1;53.624235803260724
+11/17/2019 17:10;2019;Brazilian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;20;0;305939;;;0;54.47974210141994
+7/14/2019 13:10;2019;British Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;306332;4868.452;62.92184866976197;1;54.68656417541529
+7/14/2019 13:10;2019;British Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;2;1;306332;4893.38;62.601310341726986;1;54.753026764847725
+7/14/2019 13:10;2019;British Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;3;3;1;306332;4898.569;62.53499746558637;1;54.61913322328612
+7/14/2019 13:10;2019;British Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;5;4;0;306332;4903.144;62.47664763670005;1;54.48794569953152
+7/14/2019 13:10;2019;British Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;5;0;306332;4907.91;62.41597747309955;1;54.554734200024264
+7/14/2019 13:10;2019;British Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;13;6;0;306332;4922.091;62.23615126173002;1;53.95745225780441
+7/14/2019 13:10;2019;British Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;7;7;0;306332;4922.853;62.22651783427212;1;54.35475729457187
+7/14/2019 13:10;2019;British Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;12;8;0;306332;4933.992;62.0860349996514;1;54.02473503023261
+7/14/2019 13:10;2019;British Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;17;9;0;306332;4935.172;62.07119022396788;1;53.69677055492787
+7/14/2019 13:10;2019;British Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;10;10;0;306332;4941.185;61.99565488845287;1;54.159334045972614
+7/14/2019 13:10;2019;British Grand Prix;Lando Norris;norris;McLaren;mclaren;8;11;0;306332;4942.733;61.97623865177423;1;54.28681914184936
+7/14/2019 13:10;2019;British Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;9;12;0;306332;4944.069;61.959491261145416;1;54.2244594270901
+7/14/2019 13:10;2019;British Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;18;13;0;306332;4949.538;61.89102902129452;1;53.63400684052446
+7/14/2019 13:10;2019;British Grand Prix;George Russell;russell;Williams;williams;19;14;0;306332;4963.635423076923;61.71524978966061;1;53.56314584712244
+7/14/2019 13:10;2019;British Grand Prix;Robert Kubica;kubica;Williams;williams;20;15;0;306332;4963.635423076923;61.71524978966061;1;53.49808008113298
+7/14/2019 13:10;2019;British Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;6;16;0;306332;4963.635423076923;61.71524978966061;1;54.42204231940322
+7/14/2019 13:10;2019;British Grand Prix;Sergio Perez;perez;Racing Point;racing_point;15;17;0;306332;4963.635423076923;61.71524978966061;1;53.83184020344996
+7/14/2019 13:10;2019;British Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;11;18;0;306332;;;0;54.08932598580796
+7/14/2019 13:10;2019;British Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;14;19;0;306332;;;0;53.89292431319399
+7/14/2019 13:10;2019;British Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;20;0;306332;;;0;53.760302713607786
+6/9/2019 18:10;2019;Canadian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;305270;5347.084;57.090930308931;1;54.491642421969374
+6/9/2019 18:10;2019;Canadian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;2;1;305270;5350.742;57.0519004653934;1;54.55651259866238
+6/9/2019 18:10;2019;Canadian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;3;3;1;305270;5351.78;57.04083501190259;1;54.4242114698402
+6/9/2019 18:10;2019;Canadian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;6;4;0;305270;5398.127;56.55109633396917;1;54.228712978696734
+6/9/2019 18:10;2019;Canadian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;9;5;0;305270;5404.739;56.48191337269016;1;54.03042041387327
+6/9/2019 18:10;2019;Canadian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;4;6;0;305270;5424.294557142857;56.278285919781446;1;54.357470760748996
+6/9/2019 18:10;2019;Canadian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;7;7;0;305270;5424.294557142857;56.278285919781446;1;54.16204751214975
+6/9/2019 18:10;2019;Canadian Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;5;8;0;305270;5424.294557142857;56.278285919781446;1;54.29302394608561
+6/9/2019 18:10;2019;Canadian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;17;9;0;305270;5424.294557142857;56.278285919781446;1;53.504963493619556
+6/9/2019 18:10;2019;Canadian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;10;10;0;305270;5424.294557142857;56.278285919781446;1;53.96299764726906
+6/9/2019 18:10;2019;Canadian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;11;11;0;305270;5424.294557142857;56.278285919781446;1;53.89428731744052
+6/9/2019 18:10;2019;Canadian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;15;12;0;305270;5424.294557142857;56.278285919781446;1;53.636918450004046
+6/9/2019 18:10;2019;Canadian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;12;13;0;305270;5424.294557142857;56.278285919781446;1;53.82852582582103
+6/9/2019 18:10;2019;Canadian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;14;14;0;305270;5424.294557142857;56.278285919781446;1;53.698002559748076
+6/9/2019 18:10;2019;Canadian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;16;15;0;305270;5424.294557142857;56.278285919781446;1;53.56629965062264
+6/9/2019 18:10;2019;Canadian Grand Prix;George Russell;russell;Williams;williams;18;16;0;305270;5501.505114285714;55.48845155252294;1;53.43410250021754
+6/9/2019 18:10;2019;Canadian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;20;17;0;305270;5501.505114285714;55.48845155252294;1;53.30186733399781
+6/9/2019 18:10;2019;Canadian Grand Prix;Robert Kubica;kubica;Williams;williams;19;18;0;305270;5578.715671428571;54.72048012115805;1;53.369036734228075
+6/9/2019 18:10;2019;Canadian Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;13;19;0;305270;;;0;53.76602404748012
+6/9/2019 18:10;2019;Canadian Grand Prix;Lando Norris;norris;McLaren;mclaren;8;20;0;305270;;;0;54.09189738840344
+4/14/2019 6:10;2019;Chinese Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;305256;5526.35;55.236458060021526;1;54.485998445787324
+4/14/2019 6:10;2019;Chinese Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;2;1;305256;5532.902;55.17104767082446;1;54.55246103521976
+4/14/2019 6:10;2019;Chinese Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;3;1;305256;5540.124;55.099127745155165;1;54.419111809398295
+4/14/2019 6:10;2019;Chinese Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;4;0;305256;5553.977;54.961696816533454;1;54.28829006385528
+4/14/2019 6:10;2019;Chinese Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;5;0;305256;5557.626;54.92561032354462;1;54.35268908711714
+4/14/2019 6:10;2019;Chinese Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;6;6;0;305256;5615.657;54.35802079792266;1;54.221501563362544
+4/14/2019 6:10;2019;Chinese Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;7;7;0;305256;5626.629589285714;54.252016265878176;1;54.1541915649439
+4/14/2019 6:10;2019;Chinese Grand Prix;Sergio Perez;perez;Racing Point;racing_point;12;8;0;305256;5626.629589285714;54.252016265878176;1;53.82890969344504
+4/14/2019 6:10;2019;Chinese Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;13;9;0;305256;5626.629589285714;54.252016265878176;1;53.758290894063634
+4/14/2019 6:10;2019;Chinese Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;20;10;0;305256;5626.629589285714;54.252016265878176;1;53.29923122551097
+4/14/2019 6:10;2019;Chinese Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;10;11;0;305256;5626.629589285714;54.252016265878176;1;53.95587220973008
+4/14/2019 6:10;2019;Chinese Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;16;12;0;305256;5626.629589285714;54.252016265878176;1;53.565197923978516
+4/14/2019 6:10;2019;Chinese Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;9;13;0;305256;5626.629589285714;54.252016265878176;1;54.020885829766925
+4/14/2019 6:10;2019;Chinese Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;14;14;0;305256;5626.629589285714;54.252016265878176;1;53.69100812163543
+4/14/2019 6:10;2019;Chinese Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;19;15;0;305256;5626.629589285714;54.252016265878176;1;53.361733003851874
+4/14/2019 6:10;2019;Chinese Grand Prix;George Russell;russell;Williams;williams;17;16;0;305256;5726.909178571429;53.30205010796867;1;53.49433693057651
+4/14/2019 6:10;2019;Chinese Grand Prix;Robert Kubica;kubica;Williams;williams;18;17;0;305256;5726.909178571429;53.30205010796867;1;53.42927116458704
+4/14/2019 6:10;2019;Chinese Grand Prix;Lando Norris;norris;McLaren;mclaren;15;18;0;305256;;;1;53.62510456643428
+4/14/2019 6:10;2019;Chinese Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;11;19;0;305256;;;0;53.891475264545996
+4/14/2019 6:10;2019;Chinese Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;8;20;0;305256;;;0;54.09052512942668
+6/23/2019 13:10;2019;French Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;309626;5071.198;61.05578997309905;1;55.33805770998492
+6/23/2019 13:10;2019;French Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;309626;5089.254;60.83917210656021;1;55.27276348633532
+6/23/2019 13:10;2019;French Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;3;3;1;309626;5090.183;60.82806846040703;1;55.20474835131474
+6/23/2019 13:10;2019;French Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;4;0;309626;5106.103;60.638416420506985;1;55.14034932805288
+6/23/2019 13:10;2019;French Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;7;5;0;309626;5133.994;60.30899140123655;1;54.94177904089082
+6/23/2019 13:10;2019;French Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;6;6;0;309626;5166.66;59.92769022927772;1;55.004216231620134
+6/23/2019 13:10;2019;French Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;12;7;0;309626;5168.682150943397;59.90424463293541;1;54.610350158261234
+6/23/2019 13:10;2019;French Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;13;8;0;309626;5168.682150943397;59.90424463293541;1;54.54731395437819
+6/23/2019 13:10;2019;French Grand Prix;Lando Norris;norris;McLaren;mclaren;5;9;0;309626;5168.682150943397;59.90424463293541;1;55.070069489501016
+6/23/2019 13:10;2019;French Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;9;10;0;309626;5168.682150943397;59.90424463293541;1;54.81004720139608
+6/23/2019 13:10;2019;French Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;8;11;0;309626;5168.682150943397;59.90424463293541;1;54.874494016059465
+6/23/2019 13:10;2019;French Grand Prix;Sergio Perez;perez;Racing Point;racing_point;14;12;0;309626;5168.682150943397;59.90424463293541;1;54.48333373801959
+6/23/2019 13:10;2019;French Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;17;13;0;309626;5168.682150943397;59.90424463293541;1;54.28550037509409
+6/23/2019 13:10;2019;French Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;19;14;0;309626;5168.682150943397;59.90424463293541;1;54.15062886987446
+6/23/2019 13:10;2019;French Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;11;15;0;309626;5168.682150943397;59.90424463293541;1;54.67831774203669
+6/23/2019 13:10;2019;French Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;10;16;0;309626;5168.682150943397;59.90424463293541;1;54.74081952037759
+6/23/2019 13:10;2019;French Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;15;17;0;309626;5168.682150943397;59.90424463293541;1;54.41179624817742
+6/23/2019 13:10;2019;French Grand Prix;Robert Kubica;kubica;Williams;williams;18;18;0;309626;5266.166301886793;58.79533274311245;1;54.215452022243625
+6/23/2019 13:10;2019;French Grand Prix;George Russell;russell;Williams;williams;20;19;0;309626;5266.166301886793;58.79533274311245;1;54.082882568610046
+6/23/2019 13:10;2019;French Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;16;20;0;309626;;;1;54.34678262814057
+7/28/2019 13:10;2019;German Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;1;1;306458;6271.275;48.86693694663367;1;54.699577296256834
+7/28/2019 13:10;2019;German Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;20;2;1;306458;6278.608;48.80986358759776;1;53.51283091097955
+7/28/2019 13:10;2019;German Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;14;3;1;306458;6279.58;48.80230843464054;1;53.90749205770146
+7/28/2019 13:10;2019;German Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;15;4;0;306458;6280.241;48.79717195566221;1;53.84472834329804
+7/28/2019 13:10;2019;German Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;5;0;306458;6280.858;48.79237836614042;1;54.36580898020104
+7/28/2019 13:10;2019;German Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;16;6;0;306458;6281.327;48.78873524654902;1;53.77639686445354
+7/28/2019 13:10;2019;German Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;6;7;0;306458;6288.113;48.73608346414894;1;54.43303784867265
+7/28/2019 13:10;2019;German Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;12;8;0;306458;6290.04;48.72115280665942;1;54.03690262292238
+7/28/2019 13:10;2019;German Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;9;0;306458;6290.942;48.71416713109102;1;54.765528865106845
+7/28/2019 13:10;2019;German Grand Prix;Robert Kubica;kubica;Williams;williams;18;10;0;306458;6296.262;48.67300630119903;1;53.642923177365546
+7/28/2019 13:10;2019;German Grand Prix;George Russell;russell;Williams;williams;17;11;0;306458;6297.679;48.662054703010426;1;53.70798894335501
+7/28/2019 13:10;2019;German Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;5;12;0;306458;6313.489;48.540197028932816;1;54.498970159170256
+7/28/2019 13:10;2019;German Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;11;13;0;306458;6315.124;48.527629861266384;1;54.1024122689585
+7/28/2019 13:10;2019;German Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;4;14;0;306458;;;1;54.56691038922308
+7/28/2019 13:10;2019;German Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;15;0;306458;;;0;54.63435623491623
+7/28/2019 13:10;2019;German Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;9;16;0;306458;;;0;54.23829873566417
+7/28/2019 13:10;2019;German Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;10;17;0;306458;;;0;54.171070660649555
+7/28/2019 13:10;2019;German Grand Prix;Lando Norris;norris;McLaren;mclaren;19;18;0;306458;;;0;53.57524295304873
+7/28/2019 13:10;2019;German Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;13;19;0;306458;;;0;53.972573138476314
+7/28/2019 13:10;2019;German Grand Prix;Sergio Perez;perez;Racing Point;racing_point;8;20;0;306458;;;0;54.3060753323876
+8/4/2019 13:10;2019;Hungarian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;1;1;306670;5703.796;53.76594815102083;1;54.67042289325901
+8/4/2019 13:10;2019;Hungarian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;1;2;1;306670;5721.592;53.598718678297935;1;54.80210654403204
+8/4/2019 13:10;2019;Hungarian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;5;3;1;306670;5765.229;53.19303014676433;1;54.53765785032897
+8/4/2019 13:10;2019;Hungarian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;4;0;306670;5769.046;53.15783580162127;1;54.602991941129844
+8/4/2019 13:10;2019;Hungarian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;8;5;0;306670;5786.210942857143;53.00014172116771;1;54.33658141489422
+8/4/2019 13:10;2019;Hungarian Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;6;6;0;306670;5786.210942857143;53.00014172116771;1;54.471804417375246
+8/4/2019 13:10;2019;Hungarian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;10;7;0;306670;5786.210942857143;53.00014172116771;1;54.20622896769938
+8/4/2019 13:10;2019;Hungarian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;8;0;306670;5786.210942857143;53.00014172116771;1;54.73688548269144
+8/4/2019 13:10;2019;Hungarian Grand Prix;Lando Norris;norris;McLaren;mclaren;7;9;0;306670;5786.210942857143;53.00014172116771;1;54.4024346727751
+8/4/2019 13:10;2019;Hungarian Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;12;10;0;306670;5786.210942857143;53.00014172116771;1;54.07656133185179
+8/4/2019 13:10;2019;Hungarian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;16;11;0;306670;5786.210942857143;53.00014172116771;1;53.81569892129368
+8/4/2019 13:10;2019;Hungarian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;11;12;0;306670;5786.210942857143;53.00014172116771;1;54.14319276381634
+8/4/2019 13:10;2019;Hungarian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;14;13;0;306670;5786.210942857143;53.00014172116771;1;53.941796651074554
+8/4/2019 13:10;2019;Hungarian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;20;14;0;306670;5786.210942857143;53.00014172116771;1;53.548075133923405
+8/4/2019 13:10;2019;Hungarian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;13;15;0;306670;5868.625885714286;52.25584420818374;1;54.01002130547667
+8/4/2019 13:10;2019;Hungarian Grand Prix;George Russell;russell;Williams;williams;15;16;0;306670;5868.625885714286;52.25584420818374;1;53.87639659767124
+8/4/2019 13:10;2019;Hungarian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;18;17;0;306670;5868.625885714286;52.25584420818374;1;53.68374396490919
+8/4/2019 13:10;2019;Hungarian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;17;18;0;306670;5868.625885714286;52.25584420818374;1;53.743792670946604
+8/4/2019 13:10;2019;Hungarian Grand Prix;Robert Kubica;kubica;Williams;williams;19;19;0;306670;5951.040828571429;51.53216199217664;1;53.61369561205873
+8/4/2019 13:10;2019;Hungarian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;9;20;0;306670;;;0;54.2720534702838
+9/8/2019 13:10;2019;Italian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;1;1;307029;4526.665;67.82675545904104;1;54.87716070239639
+9/8/2019 13:10;2019;Italian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;2;1;307029;4527.5;67.81424627277747;1;54.74754061779393
+9/8/2019 13:10;2019;Italian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;3;1;307029;4561.864;67.30340930812493;1;54.81283484144353
+9/8/2019 13:10;2019;Italian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;5;4;0;307029;4572.18;67.15155571302967;1;54.61278477368214
+9/8/2019 13:10;2019;Italian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;6;5;0;307029;4584.83;66.96627792088256;1;54.54911833816492
+9/8/2019 13:10;2019;Italian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;8;6;0;307029;4585.98;66.94948517001819;1;54.416437087592335
+9/8/2019 13:10;2019;Italian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;18;7;0;307029;4600.467;66.73865935784346;1;53.76047564985515
+9/8/2019 13:10;2019;Italian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;19;8;0;307029;4601.157;66.72865107624017;1;53.69282876793728
+9/8/2019 13:10;2019;Italian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;10;9;0;307029;4613.479283018868;66.55042347975888;1;54.28147505837722
+9/8/2019 13:10;2019;Italian Grand Prix;Lando Norris;norris;McLaren;mclaren;16;10;0;307029;4613.479283018868;66.55042347975888;1;53.88606255554947
+9/8/2019 13:10;2019;Italian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;17;11;0;307029;4613.479283018868;66.55042347975888;1;53.82384689913461
+9/8/2019 13:10;2019;Italian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;9;12;0;307029;4613.479283018868;66.55042347975888;1;54.353183165421825
+9/8/2019 13:10;2019;Italian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;4;13;0;307029;4613.479283018868;66.55042347975888;1;54.680069798513486
+9/8/2019 13:10;2019;Italian Grand Prix;George Russell;russell;Williams;williams;14;14;0;307029;4613.479283018868;66.55042347975888;1;54.018808545855755
+9/8/2019 13:10;2019;Italian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;20;15;0;307029;4613.479283018868;66.55042347975888;1;53.623978443932735
+9/8/2019 13:10;2019;Italian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;13;16;0;307029;4613.479283018868;66.55042347975888;1;54.085073385763245
+9/8/2019 13:10;2019;Italian Grand Prix;Robert Kubica;kubica;Williams;williams;15;17;0;307029;4700.293566037736;65.32123912822321;1;53.953742779866296
+9/8/2019 13:10;2019;Italian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;11;18;0;307029;;;0;54.2159654123411
+9/8/2019 13:10;2019;Italian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;12;19;0;307029;;;0;54.15243325366119
+9/8/2019 13:10;2019;Italian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;20;0;307029;;;0;54.47899336307874
+10/13/2019 5:10;2019;Japanese Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;1;1;307771;4906.755;62.72393873343992;1;54.87674005758634
+10/13/2019 5:10;2019;Japanese Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;1;2;1;307771;4920.098;62.55383530978448;1;55.00690445792894
+10/13/2019 5:10;2019;Japanese Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;4;3;1;307771;4920.613;62.54728831550052;1;54.810277468153906
+10/13/2019 5:10;2019;Japanese Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;4;0;307771;4966.292;61.971990370280274;1;54.67739334046677
+10/13/2019 5:10;2019;Japanese Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;5;0;307771;4975.856;61.85287516358994;1;54.608192802871145
+10/13/2019 5:10;2019;Japanese Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;2;6;0;307771;5000.639075471699;61.54633344958388;1;54.94048173564778
+10/13/2019 5:10;2019;Japanese Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;9;7;0;307771;5000.639075471699;61.54633344958388;1;54.480073591255135
+10/13/2019 5:10;2019;Japanese Grand Prix;Sergio Perez;perez;Racing Point;racing_point;17;8;0;307771;5000.639075471699;61.54633344958388;1;53.95555349618858
+10/13/2019 5:10;2019;Japanese Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;12;9;0;307771;5000.639075471699;61.54633344958388;1;54.28474738559119
+10/13/2019 5:10;2019;Japanese Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;14;10;0;307771;5000.639075471699;61.54633344958388;1;54.14987588037157
+10/13/2019 5:10;2019;Japanese Grand Prix;Lando Norris;norris;McLaren;mclaren;8;11;0;307771;5000.639075471699;61.54633344958388;1;54.54228924767
+10/13/2019 5:10;2019;Japanese Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;13;12;0;307771;5000.639075471699;61.54633344958388;1;54.214326729512244
+10/13/2019 5:10;2019;Japanese Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;10;13;0;307771;5000.639075471699;61.54633344958388;1;54.4119080451787
+10/13/2019 5:10;2019;Japanese Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;11;14;0;307771;5000.639075471699;61.54633344958388;1;54.34479609162861
+10/13/2019 5:10;2019;Japanese Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;19;15;0;307771;5000.639075471699;61.54633344958388;1;53.81813759980539
+10/13/2019 5:10;2019;Japanese Grand Prix;George Russell;russell;Williams;williams;18;16;0;307771;5094.523150943396;60.41213100445081;1;53.8844943594841
+10/13/2019 5:10;2019;Japanese Grand Prix;Robert Kubica;kubica;Williams;williams;20;17;0;307771;5094.523150943396;60.41213100445081;1;53.753550186953625
+10/13/2019 5:10;2019;Japanese Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;18;0;307771;;;0;54.744325899303895
+10/13/2019 5:10;2019;Japanese Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;16;19;0;307771;;;0;54.017321741523375
+10/13/2019 5:10;2019;Japanese Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;15;20;0;307771;;;0;54.08541211908819
+10/27/2019 19:10;2019;Mexican Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;1;1;305584;5808.904;52.60613706131139;1;54.47637471523869
+10/27/2019 19:10;2019;Mexican Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;2;1;305584;5810.67;52.59014881244332;1;54.5412448919317
+10/27/2019 19:10;2019;Mexican Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;6;3;1;305584;5812.457;52.5739803322416;1;54.27932367850706
+10/27/2019 19:10;2019;Mexican Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;4;0;305584;5815.272;52.54853083398335;1;54.606578982732564
+10/27/2019 19:10;2019;Mexican Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;5;5;0;305584;5830.303;52.41305640547327;1;54.34349058755156
+10/27/2019 19:10;2019;Mexican Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;6;0;305584;5877.711;51.99030711105054;1;54.41042314638867
+10/27/2019 19:10;2019;Mexican Grand Prix;Sergio Perez;perez;Racing Point;racing_point;11;7;0;305584;5882.723;51.94601207638028;1;53.951042775978436
+10/27/2019 19:10;2019;Mexican Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;13;8;0;305584;5883.828;51.936256464329;1;53.81517580169019
+10/27/2019 19:10;2019;Mexican Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;10;9;0;305584;5891.7748169014085;51.86620492069522;1;54.014414025257885
+10/27/2019 19:10;2019;Mexican Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;12;10;0;305584;5891.7748169014085;51.86620492069522;1;53.883266179255
+10/27/2019 19:10;2019;Mexican Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;9;11;0;305584;5891.7748169014085;51.86620492069522;1;54.07948675362041
+10/27/2019 19:10;2019;Mexican Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;16;12;0;305584;5891.7748169014085;51.86620492069522;1;53.6214525999709
+10/27/2019 19:10;2019;Mexican Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;13;0;305584;5891.7748169014085;51.86620492069522;1;54.20841164341491
+10/27/2019 19:10;2019;Mexican Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;15;14;0;305584;5891.7748169014085;51.86620492069522;1;53.681501306008315
+10/27/2019 19:10;2019;Mexican Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;17;15;0;305584;5974.645633802817;51.14679911241833;1;53.550113253431185
+10/27/2019 19:10;2019;Mexican Grand Prix;George Russell;russell;Williams;williams;19;16;0;305584;5974.645633802817;51.14679911241833;1;53.41883479348686
+10/27/2019 19:10;2019;Mexican Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;18;17;0;305584;5974.645633802817;51.14679911241833;1;53.48509963339435
+10/27/2019 19:10;2019;Mexican Grand Prix;Robert Kubica;kubica;Williams;williams;20;18;0;305584;5974.645633802817;51.14679911241833;1;53.35376902749739
+10/27/2019 19:10;2019;Mexican Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;19;0;305584;;;0;53.748667163515
+10/27/2019 19:10;2019;Mexican Grand Prix;Lando Norris;norris;McLaren;mclaren;8;20;0;305584;;;0;54.142508088213766
+5/26/2019 13:10;2019;Monaco Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;260286;6208.437;41.9245616891981;1;46.49981056126295
+5/26/2019 13:10;2019;Monaco Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;4;2;1;260286;6211.039;41.9069981689054;1;46.301167111791884
+5/26/2019 13:10;2019;Monaco Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;3;1;260286;6211.599;41.90322008874043;1;46.434516337613346
+5/26/2019 13:10;2019;Monaco Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;4;0;260286;6213.974;41.88720454897301;1;46.36798058587191
+5/26/2019 13:10;2019;Monaco Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;8;5;0;260286;6218.383;41.85750539971565;1;46.03767845921512
+5/26/2019 13:10;2019;Monaco Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;9;6;0;260286;6261.891;41.566676903191066;1;45.968333863275106
+5/26/2019 13:10;2019;Monaco Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;7;7;0;260286;6263.011;41.55924362898293;1;46.102922599644664
+5/26/2019 13:10;2019;Monaco Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;10;8;0;260286;6263.637;41.55509011777024;1;45.905948999855724
+5/26/2019 13:10;2019;Monaco Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;6;9;0;260286;6269.331;41.51734850177794;1;46.16800368041952
+5/26/2019 13:10;2019;Monaco Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;13;10;0;260286;6269.471;41.51642140142287;1;45.70617069904164
+5/26/2019 13:10;2019;Monaco Grand Prix;Lando Norris;norris;McLaren;mclaren;12;11;0;260286;6275.238;41.47826743782467;1;45.77067349499193
+5/26/2019 13:10;2019;Monaco Grand Prix;Sergio Perez;perez;Racing Point;racing_point;16;12;0;260286;6288.888769230769;41.38823400303789;1;45.513329776215585
+5/26/2019 13:10;2019;Monaco Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;11;13;0;260286;6288.888769230769;41.38823400303789;1;45.84082361873824
+5/26/2019 13:10;2019;Monaco Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;5;14;0;260286;6288.888769230769;41.38823400303789;1;46.23233316486559
+5/26/2019 13:10;2019;Monaco Grand Prix;George Russell;russell;Williams;williams;19;15;0;260286;6288.888769230769;41.38823400303789;1;45.31051382642908
+5/26/2019 13:10;2019;Monaco Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;17;16;0;260286;6288.888769230769;41.38823400303789;1;45.447253226372105
+5/26/2019 13:10;2019;Monaco Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;17;0;260286;6288.888769230769;41.38823400303789;1;45.64034619645722
+5/26/2019 13:10;2019;Monaco Grand Prix;Robert Kubica;kubica;Williams;williams;20;18;0;260286;6288.888769230769;41.38823400303789;1;45.24544806043962
+5/26/2019 13:10;2019;Monaco Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;19;0;260286;6369.340538461538;40.86545513279621;1;45.3755451193275
+5/26/2019 13:10;2019;Monaco Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;15;20;0;260286;;;0;45.57596032410058
+9/29/2019 11:10;2019;Russian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;309944;5618.992;55.16007141494417;1;55.32668853735259
+9/29/2019 11:10;2019;Russian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;2;1;309944;5622.821;55.12250879051636;1;55.195515907161976
+9/29/2019 11:10;2019;Russian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;3;1;309944;5624.204;55.10895408488028;1;55.39101439830545
+9/29/2019 11:10;2019;Russian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;9;4;0;309944;5633.202;55.020927706835295;1;54.86546652925649
+9/29/2019 11:10;2019;Russian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;20;5;0;309944;5657.34;54.78617159301014;1;54.13974990500922
+9/29/2019 11:10;2019;Russian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;5;6;0;309944;5664.881;54.71324110780085;1;55.12460387206983
+9/29/2019 11:10;2019;Russian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;11;7;0;309944;5667.72;54.68583486834212;1;54.735478191551316
+9/29/2019 11:10;2019;Russian Grand Prix;Lando Norris;norris;McLaren;mclaren;7;8;0;309944;5676.741;54.59893273270702;1;54.99282191032767
+9/29/2019 11:10;2019;Russian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;13;9;0;309944;5677.771;54.5890279829884;1;54.59806229516813
+9/29/2019 11:10;2019;Russian Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;6;10;0;309944;5678.833;54.57881927501654;1;55.06297203407397
+9/29/2019 11:10;2019;Russian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;14;11;0;309944;5679.813;54.5694021968681;1;54.537644828625815
+9/29/2019 11:10;2019;Russian Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;19;12;0;309944;5681.488;54.55331420219491;1;54.20513810378314
+9/29/2019 11:10;2019;Russian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;15;13;0;309944;5687.902;54.49179679959324;1;54.46722417254687
+9/29/2019 11:10;2019;Russian Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;16;14;0;309944;5689.068;54.48062846146328;1;54.40357900158468
+9/29/2019 11:10;2019;Russian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;12;15;0;309944;5692.338;54.44933171572033;1;54.663571941204246
+9/29/2019 11:10;2019;Russian Grand Prix;Robert Kubica;kubica;Williams;williams;18;16;0;309944;;;0;54.26996125615231
+9/29/2019 11:10;2019;Russian Grand Prix;George Russell;russell;Williams;williams;17;17;0;309944;;;0;54.33502702214177
+9/29/2019 11:10;2019;Russian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;18;0;309944;;;0;55.259801900963566
+9/29/2019 11:10;2019;Russian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;10;19;0;309944;;;0;54.79724643688612
+9/29/2019 11:10;2019;Russian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;8;20;0;309944;;;0;54.92831911437738
+9/22/2019 12:10;2019;Singapore Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;1;1;301340;7113.667;42.360712133418666;1;53.708027240446725
+9/22/2019 12:10;2019;Singapore Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;2;1;301340;7116.308;42.34499125108132;1;53.83923973778861
+9/22/2019 12:10;2019;Singapore Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;3;1;301340;7117.488;42.33797092457339;1;53.64308390144472
+9/22/2019 12:10;2019;Singapore Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;4;0;301340;7118.275;42.33329001759556;1;53.77491387683575
+9/22/2019 12:10;2019;Singapore Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;5;5;0;301340;7119.786;42.324305814809605;1;53.57786284010412
+9/22/2019 12:10;2019;Singapore Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;6;0;301340;7125.33;42.29137457493197;1;53.510272936066585
+9/22/2019 12:10;2019;Singapore Grand Prix;Lando Norris;norris;McLaren;mclaren;9;7;0;301340;7128.436;42.27294738986224;1;53.309290436728794
+9/22/2019 12:10;2019;Singapore Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;11;8;0;301340;7129.214;42.2683342090727;1;53.18119637377291
+9/22/2019 12:10;2019;Singapore Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;8;9;0;301340;7130.385;42.26139261764968;1;53.3794405604751
+9/22/2019 12:10;2019;Singapore Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;10;10;0;301340;7141.522;42.19548718046377;1;53.24355409376943
+9/22/2019 12:10;2019;Singapore Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;17;11;0;301340;7149.103;42.15074254770144;1;52.783638794991404
+9/22/2019 12:10;2019;Singapore Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;12;0;301340;7149.641;42.14757076614057;1;53.44107239847096
+9/22/2019 12:10;2019;Singapore Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;16;13;0;301340;7150.086;42.144947627203365;1;52.85411335502694
+9/22/2019 12:10;2019;Singapore Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;20;14;0;301340;7151.327;42.13763403631242;1;52.58668771095913
+9/22/2019 12:10;2019;Singapore Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;14;15;0;301340;7151.845;42.13458205539969;1;52.98275547597138
+9/22/2019 12:10;2019;Singapore Grand Prix;Robert Kubica;kubica;Williams;williams;19;16;0;301340;7160.691;42.08253086189587;1;52.652308189094455
+9/22/2019 12:10;2019;Singapore Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;13;17;0;301340;7200.189;41.851679171199535;1;53.04628763465129
+9/22/2019 12:10;2019;Singapore Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;12;18;0;301340;;;0;53.113084731653075
+9/22/2019 12:10;2019;Singapore Grand Prix;Sergio Perez;perez;Racing Point;racing_point;15;19;0;301340;;;0;52.92018990487042
+9/22/2019 12:10;2019;Singapore Grand Prix;George Russell;russell;Williams;williams;18;20;0;301340;;;0;52.717373955083914
+5/12/2019 13:10;2019;Spanish Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;416856;5750.443;72.49111068486376;1;74.45289772474298
+5/12/2019 13:10;2019;Spanish Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;2;1;416856;5754.517;72.43978947320862;1;74.51936031417542
+5/12/2019 13:10;2019;Spanish Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;3;1;416856;5758.122;72.3944369362094;1;74.32106774935195
+5/12/2019 13:10;2019;Spanish Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;3;4;0;416856;5759.61;72.37573377364093;1;74.38601108835395
+5/12/2019 13:10;2019;Spanish Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;5;5;0;416856;5763.804;72.32306997253897;1;74.25370995953179
+5/12/2019 13:10;2019;Spanish Grand Prix;Pierre Gasly;gasly;Red Bull Racing;red_bull;6;6;0;416856;5770.019;72.24516938332438;1;74.1884008423182
+5/12/2019 13:10;2019;Spanish Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;8;7;0;416856;5778.602;72.13786310252895;1;74.0536635152636
+5/12/2019 13:10;2019;Spanish Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;12;8;0;416856;5782.785;72.08568189894662;1;73.78966421367312
+5/12/2019 13:10;2019;Spanish Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;9;9;0;416856;5783.499;72.07678258438361;1;73.99013135658369
+5/12/2019 13:10;2019;Spanish Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;7;10;0;416856;5785.084;72.05703495403006;1;74.12040670830879
+5/12/2019 13:10;2019;Spanish Grand Prix;Alexander Albon;albon;Toro Rosso;toro_rosso;11;11;0;416856;5785.888;72.0470219955865;1;73.85903616333576
+5/12/2019 13:10;2019;Spanish Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;13;12;0;416856;5787.201;72.0306759692639;1;73.72582040465348
+5/12/2019 13:10;2019;Spanish Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;20;13;0;416856;5789.684;71.99978444419419;1;73.26688352989017
+5/12/2019 13:10;2019;Spanish Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;14;0;416856;5792.246;71.9679378258451;1;73.65931176647828
+5/12/2019 13:10;2019;Spanish Grand Prix;Sergio Perez;perez;Racing Point;racing_point;15;15;0;416856;5797.32;71.9049491834158;1;73.59817375277765
+5/12/2019 13:10;2019;Spanish Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;16;0;416856;5798.134;71.89485444799999;1;73.39451068934855
+5/12/2019 13:10;2019;Spanish Grand Prix;George Russell;russell;Williams;williams;19;17;0;416856;5838.293515151516;71.40031567754806;1;73.32947939645014
+5/12/2019 13:10;2019;Spanish Grand Prix;Robert Kubica;kubica;Williams;williams;17;18;0;416856;5838.293515151516;71.40031567754806;1;73.46204885008372
+5/12/2019 13:10;2019;Spanish Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;16;19;0;416856;;;0;73.53209720293418
+5/12/2019 13:10;2019;Spanish Grand Prix;Lando Norris;norris;McLaren;mclaren;10;20;0;416856;;;0;73.92139587809501
+11/3/2019 19:10;2019;United States Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;1;1;308728;5635.653;54.78122943339485;1;55.17350557801446
+11/3/2019 19:10;2019;United States Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;5;2;1;308728;5639.801;54.74093855439225;1;54.909407768958985
+11/3/2019 19:10;2019;United States Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;3;1;308728;5640.655;54.73265072939225;1;55.04109141973202
+11/3/2019 19:10;2019;United States Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;4;0;308728;5687.892;54.278105139830366;1;54.97373362991185
+11/3/2019 19:10;2019;United States Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;5;0;308728;5713.691;54.03302348691941;1;54.84240204781286
+11/3/2019 19:10;2019;United States Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;9;6;0;308728;5726.019;53.91669150940645;1;54.64347929465657
+11/3/2019 19:10;2019;United States Grand Prix;Lando Norris;norris;McLaren;mclaren;8;7;0;308728;5726.417;53.9129441673563;1;54.707297955016095
+11/3/2019 19:10;2019;United States Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;8;0;308728;5737.910446428572;53.80495267090837;1;54.77320151021724
+11/3/2019 19:10;2019;United States Grand Prix;Nico Hulkenberg;hulkenberg;Renault;renault;11;9;0;308728;5737.910446428572;53.80495267090837;1;54.51393445259834
+11/3/2019 19:10;2019;United States Grand Prix;Sergio Perez;perez;Racing Point;racing_point;20;10;0;308728;5737.910446428572;53.80495267090837;1;53.92292698391162
+11/3/2019 19:10;2019;United States Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;17;11;0;308728;5737.910446428572;53.80495267090837;1;54.11582181069428
+11/3/2019 19:10;2019;United States Grand Prix;Daniil Kvyat;kvyat;Toro Rosso;toro_rosso;13;12;0;308728;5737.910446428572;53.80495267090837;1;54.380762994258674
+11/3/2019 19:10;2019;United States Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;14;13;0;308728;5737.910446428572;53.80495267090837;1;54.31799927985525
+11/3/2019 19:10;2019;United States Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;16;14;0;308728;5737.910446428572;53.80495267090837;1;54.180412766269626
+11/3/2019 19:10;2019;United States Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;15;15;0;308728;5737.910446428572;53.80495267090837;1;54.247524719819715
+11/3/2019 19:10;2019;United States Grand Prix;Pierre Gasly;gasly;Toro Rosso;toro_rosso;10;16;0;308728;;;1;54.579203892060214
+11/3/2019 19:10;2019;United States Grand Prix;George Russell;russell;Williams;williams;18;17;0;308728;5840.167892857143;52.86286381896519;1;54.0495030668302
+11/3/2019 19:10;2019;United States Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;12;18;0;308728;;;1;54.44429515293859
+11/3/2019 19:10;2019;United States Grand Prix;Robert Kubica;kubica;Williams;williams;19;19;0;308728;;;0;53.98443730084073
+11/3/2019 19:10;2019;United States Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;2;20;0;308728;;;0;55.10603475873402
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;4;1;1;306332;4781.993;64.05948314855333;1;54.5523999251672
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;2;1;306332;4793.319;63.90811877949287;1;54.684229900558236
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;3;1;306332;4801.224;63.80289692795004;1;54.75069248999066
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;8;4;0;306332;4811.282;63.66951677328412;1;54.28740691572399
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;9;5;0;306332;4821.139;63.539342051743375;1;54.22195374016602
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;6;6;0;306332;4824.531;63.49466922277005;1;54.422213444159574
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Nico Hulkenberg;hulkenberg;Racing Point;racing_point;3;7;0;306332;4837.944;63.31863287379928;1;54.62013857873985
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Esteban Ocon;ocon;Renault;renault;14;8;0;306332;4846.766;63.20338138874458;1;53.892892561770495
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Lando Norris;norris;McLaren;mclaren;10;9;0;306332;4847.537;63.193328900841806;1;54.152728053910266
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;16;10;0;306332;4851.662;63.13960040909692;1;53.75645637079805
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;7;11;0;306332;4852.635;63.126940311809975;1;54.35016770784568
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;11;12;0;306332;4855.363;63.09147225449467;1;54.09031601184109
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;12;13;0;306332;4856.063;63.08237763801664;1;54.02099638948837
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;5;14;0;306332;4875.378826923077;62.83245074379801;1;54.48417983279683
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;20;15;0;306332;4875.378826923077;62.83245074379801;1;53.49537350304744
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;13;16;0;306332;4875.378826923077;62.83245074379801;1;53.95646844487795
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;19;17;0;306332;4875.378826923077;62.83245074379801;1;53.55996445862279
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;George Russell;russell;Williams;williams;15;18;0;306332;4875.378826923077;62.83245074379801;1;53.82432519842944
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;19;0;306332;4875.378826923077;62.83245074379801;1;53.62626115232015
+8/9/2020 13:10;2020;70th Anniversary Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;17;20;0;306332;;;0;53.69209003220971
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;1;1;1;290455;5788.645;50.17668210781625;1;51.9008955966268
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;290455;5804.621;50.0385813302884;1;51.8356745352862
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;3;3;1;290455;5807.06;50.0175648262632;1;51.769211945853776
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;5;4;0;290455;5808.632;50.00402848725828;1;51.636327818166635
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Lando Norris;norris;McLaren;mclaren;4;5;0;290455;5849.374;49.65574093911588;1;51.69885894499291
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;6;6;0;290455;5854.307;49.61389964687537;1;51.567127280571015
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;11;7;0;290455;5862.393;49.54546718379338;1;51.2397698453873
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;9;8;0;290455;5878.363;49.41086489555;1;51.3692713466002
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Esteban Ocon;ocon;Renault;renault;10;9;0;290455;5889.714;49.3156373976733;1;51.30726663977111
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;8;10;0;290455;5891.383;49.30166651871046;1;51.4413170829141
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;7;11;0;290455;5895.761054545455;49.26505625190965;1;51.500222481503734
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;15;12;0;290455;5895.761054545455;49.26505625190965;1;50.97562598758906
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;12;13;0;290455;5895.761054545455;49.26505625190965;1;51.174753741396486
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;13;14;0;290455;5895.761054545455;49.26505625190965;1;51.10941965059561
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;George Russell;russell;Williams;williams;16;15;0;290455;5895.761054545455;49.26505625190965;1;50.90930724372498
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;14;16;0;290455;5895.761054545455;49.26505625190965;1;51.04021694316442
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;17;0;290455;5895.761054545455;49.26505625190965;1;50.777121604156704
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;20;18;0;290455;5895.761054545455;49.26505625190965;1;50.645315264423225
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Pietro Fittipaldi;pietro_fittipaldi;Haas F1 Team;haas;17;19;0;290455;6002.8771090909095;48.38596471684013;1;50.84307419846885
+12/13/2020 13:10;2020;Abu Dhabi Grand Prix;Sergio Perez;perez;Racing Point;racing_point;19;20;0;290455;;;0;50.716852754265396
+7/5/2020 13:10;2020;Austrian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;1;1;306578;5455.739;56.19367055498807;1;54.79762711036035
+7/5/2020 13:10;2020;Austrian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;7;2;1;306578;5458.439;56.16587452932972;1;54.40021994263469
+7/5/2020 13:10;2020;Austrian Grand Prix;Lando Norris;norris;McLaren;mclaren;3;3;1;306578;5461.23;56.13717056414032;1;54.66081152006706
+7/5/2020 13:10;2020;Austrian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;5;4;0;306578;5461.428;56.13513535287841;1;54.533529301304874
+7/5/2020 13:10;2020;Austrian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;8;5;0;306578;5464.642;56.10211977289638;1;54.33144463602211
+7/5/2020 13:10;2020;Austrian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;6;6;0;306578;5470.831;56.03865299439884;1;54.46934620783173
+7/5/2020 13:10;2020;Austrian Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;12;7;0;306578;5472.421;56.0223710858503;1;54.06771029551029
+7/5/2020 13:10;2020;Austrian Grand Prix;Esteban Ocon;ocon;Renault;renault;14;8;0;306578;5473.195;56.01444859903585;1;53.939827182140185
+7/5/2020 13:10;2020;Austrian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;9;0;306578;5476.885;55.976709388639705;1;53.67277748553349
+7/5/2020 13:10;2020;Austrian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;11;10;0;306578;5480.284;55.94199132745676;1;54.13725063221077
+7/5/2020 13:10;2020;Austrian Grand Prix;Nicholas Latifi;latifi;Williams;williams;20;11;0;306578;5487.389;55.86955836373182;1;53.54143895960781
+7/5/2020 13:10;2020;Austrian Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;13;12;0;306578;;;1;54.001026210790776
+7/5/2020 13:10;2020;Austrian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;4;13;0;306578;;;1;54.598280393240785
+7/5/2020 13:10;2020;Austrian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;19;14;0;306578;;;0;53.60818652995814
+7/5/2020 13:10;2020;Austrian Grand Prix;George Russell;russell;Williams;williams;17;15;0;306578;;;0;53.739503005717104
+7/5/2020 13:10;2020;Austrian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;15;16;0;306578;;;0;53.871646252165604
+7/5/2020 13:10;2020;Austrian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;17;0;306578;;;0;53.80490305912041
+7/5/2020 13:10;2020;Austrian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;9;18;0;306578;;;0;54.27151284490622
+7/5/2020 13:10;2020;Austrian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;10;19;0;306578;;;0;54.20172242046145
+7/5/2020 13:10;2020;Austrian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;20;0;306578;;;0;54.73109135861892
+11/29/2020 14:10;2020;Bahrain Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;308484;10787.515;28.5963912912288;1;55.11645330651232
+11/29/2020 14:10;2020;Bahrain Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;2;1;308484;10788.769;28.59306747600213;1;54.98462333112129
+11/29/2020 14:10;2020;Bahrain Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;4;3;1;308484;10795.52;28.575186744130896;1;54.91769077228417
+11/29/2020 14:10;2020;Bahrain Grand Prix;Lando Norris;norris;McLaren;mclaren;9;4;0;308484;10798.852;28.56636983264517;1;54.58495145986435
+11/29/2020 14:10;2020;Bahrain Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;15;5;0;308484;10799.302;28.565179490304097;1;54.189706169278395
+11/29/2020 14:10;2020;Bahrain Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;8;6;0;308484;10799.457;28.564769506466853;1;54.65063430071773
+11/29/2020 14:10;2020;Bahrain Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;6;7;0;308484;10806.883;28.54514109202441;1;54.784646425668896
+11/29/2020 14:10;2020;Bahrain Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;8;0;308484;10807.195;28.544317003625824;1;55.05115908286272
+11/29/2020 14:10;2020;Bahrain Grand Prix;Esteban Ocon;ocon;Renault;renault;7;9;0;308484;10810.318;28.536070816788182;1;54.72038640697067
+11/29/2020 14:10;2020;Bahrain Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;12;10;0;308484;10977.169701754385;28.102325861892957;1;54.390238288973
+11/29/2020 14:10;2020;Bahrain Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;10;11;0;308484;10977.169701754385;28.102325861892957;1;54.518071809457204
+11/29/2020 14:10;2020;Bahrain Grand Prix;George Russell;russell;Williams;williams;14;12;0;308484;10977.169701754385;28.102325861892957;1;54.25654860438353
+11/29/2020 14:10;2020;Bahrain Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;11;13;0;308484;10977.169701754385;28.102325861892957;1;54.456661011254155
+11/29/2020 14:10;2020;Bahrain Grand Prix;Nicholas Latifi;latifi;Williams;williams;20;14;0;308484;10977.169701754385;28.102325861892957;1;53.86084933865119
+11/29/2020 14:10;2020;Bahrain Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;17;15;0;308484;10977.169701754385;28.102325861892957;1;54.05935372208355
+11/29/2020 14:10;2020;Bahrain Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;16;16;0;308484;10977.169701754385;28.102325861892957;1;54.1239446776589
+11/29/2020 14:10;2020;Bahrain Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;18;17;0;308484;10977.169701754385;28.102325861892957;1;53.99255662508177
+11/29/2020 14:10;2020;Bahrain Grand Prix;Sergio Perez;perez;Racing Point;racing_point;5;18;0;308484;;;1;54.85463499341612
+11/29/2020 14:10;2020;Bahrain Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;13;19;0;308484;;;0;54.32740959778554
+11/29/2020 14:10;2020;Bahrain Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;19;20;0;308484;;;0;53.92754300504493
+8/30/2020 13:10;2020;Belgian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;308176;5048.761;61.03992642947448;1;55.083474636317476
+8/30/2020 13:10;2020;Belgian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;308176;5057.209;60.93796004871462;1;55.018180412667874
+8/30/2020 13:10;2020;Belgian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;3;1;308176;5064.216;60.853644473300506;1;54.95164466092645
+8/30/2020 13:10;2020;Belgian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;4;4;0;308176;5067.638;60.81255211994227;1;54.88342456855608
+8/30/2020 13:10;2020;Belgian Grand Prix;Esteban Ocon;ocon;Renault;renault;6;5;0;308176;5089.411;60.5523900506365;1;54.75328614331684
+8/30/2020 13:10;2020;Belgian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;5;6;0;308176;5091.473;60.52786688645899;1;54.81883369554831
+8/30/2020 13:10;2020;Belgian Grand Prix;Lando Norris;norris;McLaren;mclaren;10;7;0;308176;5092.535;60.5152443724;1;54.48609438312849
+8/30/2020 13:10;2020;Belgian Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;12;8;0;308176;5096.132;60.472530931302416;1;54.35414200435883
+8/30/2020 13:10;2020;Belgian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;9;9;0;308176;5101.364;60.41050981659024;1;54.55794455375476
+8/30/2020 13:10;2020;Belgian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;8;10;0;308176;5101.94;60.40368957690605;1;54.62402110359823
+8/30/2020 13:10;2020;Belgian Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;11;11;0;308176;5118.961;60.202841943902285;1;54.41921473272135
+8/30/2020 13:10;2020;Belgian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;16;12;0;308176;5120.265;60.18750982615157;1;54.092253458429724
+8/30/2020 13:10;2020;Belgian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;14;13;0;308176;5121.655;60.17117513772404;1;54.22604712143627
+8/30/2020 13:10;2020;Belgian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;13;14;0;308176;5123.681;60.14738232142087;1;54.29138121223714
+8/30/2020 13:10;2020;Belgian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;17;15;0;308176;5125.554;60.125403029604215;1;54.026321147932116
+8/30/2020 13:10;2020;Belgian Grand Prix;Nicholas Latifi;latifi;Williams;williams;19;16;0;308176;5126.556;60.113651348000495;1;53.89374907499736
+8/30/2020 13:10;2020;Belgian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;20;17;0;308176;5134.301;60.0229709944937;1;53.8278211418049
+8/30/2020 13:10;2020;Belgian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;18;0;308176;;;0;53.95920919438203
+8/30/2020 13:10;2020;Belgian Grand Prix;George Russell;russell;Williams;williams;15;19;0;308176;;;0;54.15769152764767
+8/30/2020 13:10;2020;Belgian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;20;0;308176;;;0;54.68375475141167
+8/2/2020 13:10;2020;British Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;306332;5281.283;58.00332987268434;1;54.75244258195631
+8/2/2020 13:10;2020;British Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;2;1;306332;5287.139;57.93908577020578;1;54.620612606565274
+8/2/2020 13:10;2020;British Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;3;1;306332;5299.757;57.80114069380917;1;54.55325481674511
+8/2/2020 13:10;2020;British Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;8;4;0;306332;5300.933;57.78831764144161;1;54.28887888803085
+8/2/2020 13:10;2020;British Grand Prix;Lando Norris;norris;McLaren;mclaren;5;5;0;306332;5303.56;57.75969348890179;1;54.4844543614724
+8/2/2020 13:10;2020;British Grand Prix;Esteban Ocon;ocon;Renault;renault;9;6;0;306332;5308.22;57.70898719344714;1;54.22461886933263
+8/2/2020 13:10;2020;British Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;11;7;0;306332;5312.471;57.662808888745;1;54.08898835653867
+8/2/2020 13:10;2020;British Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;12;8;0;306332;5313.953;57.64672739860514;1;54.02665279540003
+8/2/2020 13:10;2020;British Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;6;9;0;306332;5318.594;57.59642491981904;1;54.42454771901663
+8/2/2020 13:10;2020;British Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;10;10;0;306332;5323.14;57.54723715701635;1;54.15852869323916
+8/2/2020 13:10;2020;British Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;11;0;306332;5323.45;57.54388601376927;1;54.68714835830671
+8/2/2020 13:10;2020;British Grand Prix;George Russell;russell;Williams;williams;20;12;0;306332;5333.287;57.43774899044436;1;53.497267440581425
+8/2/2020 13:10;2020;British Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;13;0;306332;5334.653;57.423041386197;1;54.3527226970505
+8/2/2020 13:10;2020;British Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;15;14;0;306332;5335.488;57.41405472189236;1;53.825812359643905
+8/2/2020 13:10;2020;British Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;15;0;306332;5335.832;57.410353249502606;1;53.62859542717721
+8/2/2020 13:10;2020;British Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;17;16;0;306332;5336.333;57.40496329595624;1;53.69528909357094
+8/2/2020 13:10;2020;British Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;16;17;0;306332;5383.904788461538;56.897737243888926;1;53.76122140406856
+8/2/2020 13:10;2020;British Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;19;18;0;306332;;;0;53.56115542603206
+8/2/2020 13:10;2020;British Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;14;19;0;306332;;;0;53.89205952668981
+8/2/2020 13:10;2020;British Grand Prix;Nico Hulkenberg;hulkenberg;Racing Point;racing_point;13;20;0;306332;;;0;53.96368878818676
+10/11/2020 12:10;2020;Eifel Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;308880;5749.641;53.721614966917066;1;55.13430604350993
+10/11/2020 12:10;2020;Eifel Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;2;1;308880;5754.111;53.67988208778037;1;55.06835447465991
+10/11/2020 12:10;2020;Eifel Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;6;3;1;308880;5764.254;53.585424930962446;1;54.86837756920752
+10/11/2020 12:10;2020;Eifel Grand Prix;Sergio Perez;perez;Racing Point;racing_point;9;4;0;308880;5765.711;53.5718838491905;1;54.674852510790686
+10/11/2020 12:10;2020;Eifel Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;10;5;0;308880;5771.546;53.51772298098291;1;54.602829345522096
+10/11/2020 12:10;2020;Eifel Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;12;6;0;308880;5772.407;53.509740390793645;1;54.4708518180923
+10/11/2020 12:10;2020;Eifel Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;7;0;308880;5780.455;53.43523995948416;1;55.00099668483975
+10/11/2020 12:10;2020;Eifel Grand Prix;Nico Hulkenberg;hulkenberg;Racing Point;racing_point;20;8;0;308880;5782.237;53.41877200813457;1;53.95028181049429
+10/11/2020 12:10;2020;Eifel Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;16;9;0;308880;5788.722;53.35892792916986;1;54.2089093682066
+10/11/2020 12:10;2020;Eifel Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;14;10;0;308880;5789.676;53.35013565525946;1;54.339432634279554
+10/11/2020 12:10;2020;Eifel Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;11;11;0;308880;5790.451;53.34299521747097;1;54.540392154792784
+10/11/2020 12:10;2020;Eifel Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;19;12;0;308880;5791.117;53.33686057456618;1;54.01132805254015
+10/11/2020 12:10;2020;Eifel Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;15;13;0;308880;5799.226;53.26228017325071;1;54.27392298824344
+10/11/2020 12:10;2020;Eifel Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;14;0;308880;5804.09;53.21764479875398;1;54.07633729527185
+10/11/2020 12:10;2020;Eifel Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;13;15;0;308880;5805.229;53.20720336786025;1;54.40416773337279
+10/11/2020 12:10;2020;Eifel Grand Prix;Lando Norris;norris;McLaren;mclaren;8;16;0;308880;;;0;54.734561009943995
+10/11/2020 12:10;2020;Eifel Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;5;17;0;308880;;;0;54.93554350928178
+10/11/2020 12:10;2020;Eifel Grand Prix;Esteban Ocon;ocon;Renault;renault;7;18;0;308880;;;0;54.8041175505093
+10/11/2020 12:10;2020;Eifel Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;19;0;308880;;;0;55.200768632942356
+10/11/2020 12:10;2020;Eifel Grand Prix;George Russell;russell;Williams;williams;17;20;0;308880;;;0;54.14264452829911
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;309267;5312.43;58.21573178375997;1;55.2012059017136
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;2;1;309267;5318.213;58.15242826866845;1;55.26766849114603
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;5;3;1;309267;5326.75;58.05922936124279;1;55.001155833952204
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;8;4;0;309267;5327.571;58.05028220177638;1;54.80045962428154
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;7;5;0;309267;5331.541;58.00705649642383;1;54.87026132342037
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Sergio Perez;perez;Racing Point;racing_point;11;6;0;309267;5332.082;58.00117102475168;1;54.60999555591233
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;10;7;0;309267;5332.66;57.99488435414971;1;54.669729203725765
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Lando Norris;norris;McLaren;mclaren;9;8;0;309267;5333.561;57.98508726158752;1;54.73558246160665
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;18;9;0;309267;5334.654;57.97320688464519;1;54.14410631728484
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;20;10;0;309267;5338.828;57.92788229926119;1;54.01106205323714
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Nicholas Latifi;latifi;Williams;williams;19;11;0;309267;5339.565;57.91988673234618;1;54.0773587469345
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;14;12;0;309267;5340.883;57.90559351328236;1;54.40965679337341
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;15;13;0;309267;5341.593;57.8978967510254;1;54.34628378644581
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;16;14;0;309267;5345.365;57.85704063239835;1;54.27580922641027
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;15;0;309267;5369.714;57.59468753829347;1;54.93656496094443
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;George Russell;russell;Williams;williams;13;16;0;309267;;;0;54.47305801266684
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;17;0;309267;;;0;55.13525433286359
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;17;18;0;309267;;;0;54.20906603336508
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Esteban Ocon;ocon;Renault;renault;12;19;0;309267;;;0;54.54162537600789
+11/1/2020 12:10;2020;Emilia Romagna Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;4;20;0;309267;;;0;55.06477892862409
+7/19/2020 13:10;2020;Hungarian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;306670;5772.473;53.126277073968126;1;54.80217970634104
+7/19/2020 13:10;2020;Hungarian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;7;2;1;306670;5781.175;53.046309789964845;1;54.40683610478595
+7/19/2020 13:10;2020;Hungarian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;3;1;306670;5781.925;53.03942890992187;1;54.73688548269144
+7/19/2020 13:10;2020;Hungarian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;3;4;0;306670;5830.052;52.601589145345535;1;54.67192006302441
+7/19/2020 13:10;2020;Hungarian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;13;5;0;306670;5850.789;52.4151528964726;1;54.010511513243756
+7/19/2020 13:10;2020;Hungarian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;5;6;0;306670;5856.0557;52.368012824741406;1;54.53765785032897
+7/19/2020 13:10;2020;Hungarian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;4;7;0;306670;5856.0557;52.368012824741406;1;54.60623979978586
+7/19/2020 13:10;2020;Hungarian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;11;8;0;306670;5856.0557;52.368012824741406;1;54.14098079279254
+7/19/2020 13:10;2020;Hungarian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;9;9;0;306670;5856.0557;52.368012824741406;1;54.27070300835321
+7/19/2020 13:10;2020;Hungarian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;20;10;0;306670;5856.0557;52.368012824741406;1;53.546526211828464
+7/19/2020 13:10;2020;Hungarian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;6;11;0;306670;5856.0557;52.368012824741406;1;54.47123512804781
+7/19/2020 13:10;2020;Hungarian Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;17;12;0;306670;5856.0557;52.368012824741406;1;53.74264936349883
+7/19/2020 13:10;2020;Hungarian Grand Prix;Lando Norris;norris;McLaren;mclaren;8;13;0;306670;5856.0557;52.368012824741406;1;54.33655626623409
+7/19/2020 13:10;2020;Hungarian Grand Prix;Esteban Ocon;ocon;Renault;renault;14;14;0;306670;5856.0557;52.368012824741406;1;53.944963961012284
+7/19/2020 13:10;2020;Hungarian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;20;15;0;306670;5856.0557;52.368012824741406;1;53.54744490228923
+7/19/2020 13:10;2020;Hungarian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;20;16;0;306670;5856.0557;52.368012824741406;1;53.54739099833264
+7/19/2020 13:10;2020;Hungarian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;19;17;0;306670;5856.0557;52.368012824741406;1;53.612035857864576
+7/19/2020 13:10;2020;Hungarian Grand Prix;George Russell;russell;Williams;williams;12;18;0;306670;5856.0557;52.368012824741406;1;54.07403181729428
+7/19/2020 13:10;2020;Hungarian Grand Prix;Nicholas Latifi;latifi;Williams;williams;15;19;0;306670;6190.3865;49.53971775429531;1;53.87596777118499
+7/19/2020 13:10;2020;Hungarian Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;10;20;0;306670;;;0;54.20460388746442
+9/6/2020 13:10;2020;Italian Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;10;1;1;307029;6426.056;47.77876196534858;1;54.28113742910793
+9/6/2020 13:10;2020;Italian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;3;2;1;307029;6426.471;47.77567657272553;1;54.7425069892428
+9/6/2020 13:10;2020;Italian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;8;3;1;307029;6429.414;47.753807734266296;1;54.41906157196284
+9/6/2020 13:10;2020;Italian Grand Prix;Lando Norris;norris;McLaren;mclaren;6;4;0;307029;6432.056;47.73419261275089;1;54.544846620959625
+9/6/2020 13:10;2020;Italian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;5;0;307029;6433.164;47.72597123281794;1;54.81341902433495
+9/6/2020 13:10;2020;Italian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;7;6;0;307029;6434.447;47.71645488726537;1;54.4810279606001
+9/6/2020 13:10;2020;Italian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;7;0;307029;6443.301;47.6508857804408;1;54.87871324798455
+9/6/2020 13:10;2020;Italian Grand Prix;Esteban Ocon;ocon;Renault;renault;12;8;0;307029;6444.747;47.640194409493496;1;54.153254315737826
+9/6/2020 13:10;2020;Italian Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;11;9;0;307029;6448.264;47.61421058443017;1;54.21445334438842
+9/6/2020 13:10;2020;Italian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;4;10;0;307029;6449.28;47.60670958618637;1;54.68277334142936
+9/6/2020 13:10;2020;Italian Grand Prix;Nicholas Latifi;latifi;Williams;williams;20;11;0;307029;6458.932;47.53556779975389;1;53.623109280123415
+9/6/2020 13:10;2020;Italian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;16;12;0;307029;6461.22;47.51873485193199;1;53.8874381661402
+9/6/2020 13:10;2020;Italian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;13;0;307029;6462.368;47.51029344042308;1;54.019248883178825
+9/6/2020 13:10;2020;Italian Grand Prix;George Russell;russell;Williams;williams;19;14;0;307029;6462.649;47.508227663300296;1;53.68941651315068
+9/6/2020 13:10;2020;Italian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;9;15;0;307029;6463.589;47.50131853990097;1;54.35055868105132
+9/6/2020 13:10;2020;Italian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;16;0;307029;6481.255;47.37184387900183;1;53.7544478060491
+9/6/2020 13:10;2020;Italian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;5;17;0;307029;;;0;54.61512645951149
+9/6/2020 13:10;2020;Italian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;13;18;0;307029;;;0;54.086619823904215
+9/6/2020 13:10;2020;Italian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;15;19;0;307029;;;0;53.95245178617704
+9/6/2020 13:10;2020;Italian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;17;20;0;307029;;;0;53.823650513480295
+10/25/2020 13:10;2020;Portuguese Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;307098;5396.828;56.90342549364182;1;54.88239333340997
+10/25/2020 13:10;2020;Portuguese Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;307098;5422.42;56.634860449762286;1;54.81709910976037
+10/25/2020 13:10;2020;Portuguese Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;3;1;307098;5431.336;56.54188950932146;1;54.75056335801894
+10/25/2020 13:10;2020;Portuguese Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;4;0;307098;5462.14;56.22301881680074;1;54.68320556819877
+10/25/2020 13:10;2020;Portuguese Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;9;5;0;307098;5479.587696969697;56.04399764782125;1;54.35069592107437
+10/25/2020 13:10;2020;Portuguese Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;6;0;307098;5479.587696969697;56.04399764782125;1;54.482673448504165
+10/25/2020 13:10;2020;Portuguese Grand Prix;Sergio Perez;perez;Racing Point;racing_point;5;7;0;307098;5479.587696969697;56.04399764782125;1;54.62057502031377
+10/25/2020 13:10;2020;Portuguese Grand Prix;Esteban Ocon;ocon;Renault;renault;11;8;0;307098;5479.587696969697;56.04399764782125;1;54.22281280770426
+10/25/2020 13:10;2020;Portuguese Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;10;9;0;307098;5479.587696969697;56.04399764782125;1;54.287072826402486
+10/25/2020 13:10;2020;Portuguese Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;15;10;0;307098;5479.587696969697;56.04399764782125;1;53.959087411987745
+10/25/2020 13:10;2020;Portuguese Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;16;11;0;307098;5479.587696969697;56.04399764782125;1;53.89117215552222
+10/25/2020 13:10;2020;Portuguese Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;12;0;307098;5479.587696969697;56.04399764782125;1;54.551873986099785
+10/25/2020 13:10;2020;Portuguese Grand Prix;Lando Norris;norris;McLaren;mclaren;8;13;0;307098;5479.587696969697;56.04399764782125;1;54.41676989330302
+10/25/2020 13:10;2020;Portuguese Grand Prix;George Russell;russell;Williams;williams;14;14;0;307098;5479.587696969697;56.04399764782125;1;54.02248863128118
+10/25/2020 13:10;2020;Portuguese Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;17;15;0;307098;5479.587696969697;56.04399764782125;1;53.82400629801553
+10/25/2020 13:10;2020;Portuguese Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;19;16;0;307098;5479.587696969697;56.04399764782125;1;53.6926182454384
+10/25/2020 13:10;2020;Portuguese Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;18;17;0;307098;5479.587696969697;56.04399764782125;1;53.759361438483594
+10/25/2020 13:10;2020;Portuguese Grand Prix;Nicholas Latifi;latifi;Williams;williams;20;18;0;307098;5562.347393939394;55.21014389259594;1;53.62678936554884
+10/25/2020 13:10;2020;Portuguese Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;13;19;0;307098;5562.347393939394;55.21014389259594;1;54.08637661673181
+10/25/2020 13:10;2020;Portuguese Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;12;20;0;307098;;;0;54.15922803122421
+7/5/2020 13:10;2020;Pre-Season Test 1;Valtteri Bottas;bottas;Mercedes;mercedes;1;1;1;306578;5455.739;56.19367055498807;1;54.79004804747298
+7/5/2020 13:10;2020;Pre-Season Test 1;Charles Leclerc;leclerc;Ferrari;ferrari;7;2;1;306578;5458.439;56.16587452932972;1;54.39264087974732
+7/5/2020 13:10;2020;Pre-Season Test 1;Lando Norris;norris;McLaren;mclaren;3;3;1;306578;5461.23;56.13717056414032;1;54.65323245717969
+7/5/2020 13:10;2020;Pre-Season Test 1;Lewis Hamilton;hamilton;Mercedes;mercedes;5;4;0;306578;5461.428;56.13513535287841;1;54.52595023841751
+7/5/2020 13:10;2020;Pre-Season Test 1;Carlos Sainz;sainz;McLaren;mclaren;8;5;0;306578;5464.642;56.10211977289638;1;54.323865573134746
+7/5/2020 13:10;2020;Pre-Season Test 1;Sergio Perez;perez;Racing Point;racing_point;6;6;0;306578;5470.831;56.03865299439884;1;54.46176714494435
+7/5/2020 13:10;2020;Pre-Season Test 1;Pierre Gasly;gasly;AlphaTauri;alphatauri;12;7;0;306578;5472.421;56.0223710858503;1;54.060131232622915
+7/5/2020 13:10;2020;Pre-Season Test 1;Esteban Ocon;ocon;Renault;renault;14;8;0;306578;5473.195;56.01444859903585;1;53.93224811925281
+7/5/2020 13:10;2020;Pre-Season Test 1;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;9;0;306578;5476.885;55.976709388639705;1;53.66519842264612
+7/5/2020 13:10;2020;Pre-Season Test 1;Sebastian Vettel;vettel;Ferrari;ferrari;11;10;0;306578;5480.284;55.94199132745676;1;54.129671569323406
+7/5/2020 13:10;2020;Pre-Season Test 1;Nicholas Latifi;latifi;Williams;williams;20;11;0;306578;5487.389;55.86955836373182;1;53.533859896720436
+7/5/2020 13:10;2020;Pre-Season Test 1;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;13;12;0;306578;;;1;53.99344714790341
+7/5/2020 13:10;2020;Pre-Season Test 1;Alexander Albon;albon;Red Bull Racing;red_bull;4;13;0;306578;;;1;54.59070133035341
+7/5/2020 13:10;2020;Pre-Season Test 1;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;19;14;0;306578;;;0;53.600607467070766
+7/5/2020 13:10;2020;Pre-Season Test 1;George Russell;russell;Williams;williams;17;15;0;306578;;;0;53.73192394282973
+7/5/2020 13:10;2020;Pre-Season Test 1;Romain Grosjean;grosjean;Haas F1 Team;haas;15;16;0;306578;;;0;53.86406718927824
+7/5/2020 13:10;2020;Pre-Season Test 1;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;17;0;306578;;;0;53.79732399623305
+7/5/2020 13:10;2020;Pre-Season Test 1;Lance Stroll;stroll;Racing Point;racing_point;9;18;0;306578;;;0;54.263933782018846
+7/5/2020 13:10;2020;Pre-Season Test 1;Daniel Ricciardo;ricciardo;Renault;renault;10;19;0;306578;;;0;54.19414335757408
+7/5/2020 13:10;2020;Pre-Season Test 1;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;20;0;306578;;;0;54.72351229573155
+7/5/2020 13:10;2020;Pre-Season Test 2;Valtteri Bottas;bottas;Mercedes;mercedes;1;1;1;306578;5455.739;56.19367055498807;1;54.79004804747298
+7/5/2020 13:10;2020;Pre-Season Test 2;Charles Leclerc;leclerc;Ferrari;ferrari;7;2;1;306578;5458.439;56.16587452932972;1;54.39264087974732
+7/5/2020 13:10;2020;Pre-Season Test 2;Lando Norris;norris;McLaren;mclaren;3;3;1;306578;5461.23;56.13717056414032;1;54.65323245717969
+7/5/2020 13:10;2020;Pre-Season Test 2;Lewis Hamilton;hamilton;Mercedes;mercedes;5;4;0;306578;5461.428;56.13513535287841;1;54.52595023841751
+7/5/2020 13:10;2020;Pre-Season Test 2;Carlos Sainz;sainz;McLaren;mclaren;8;5;0;306578;5464.642;56.10211977289638;1;54.323865573134746
+7/5/2020 13:10;2020;Pre-Season Test 2;Sergio Perez;perez;Racing Point;racing_point;6;6;0;306578;5470.831;56.03865299439884;1;54.46176714494435
+7/5/2020 13:10;2020;Pre-Season Test 2;Pierre Gasly;gasly;AlphaTauri;alphatauri;12;7;0;306578;5472.421;56.0223710858503;1;54.060131232622915
+7/5/2020 13:10;2020;Pre-Season Test 2;Esteban Ocon;ocon;Renault;renault;14;8;0;306578;5473.195;56.01444859903585;1;53.93224811925281
+7/5/2020 13:10;2020;Pre-Season Test 2;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;18;9;0;306578;5476.885;55.976709388639705;1;53.66519842264612
+7/5/2020 13:10;2020;Pre-Season Test 2;Sebastian Vettel;vettel;Ferrari;ferrari;11;10;0;306578;5480.284;55.94199132745676;1;54.129671569323406
+7/5/2020 13:10;2020;Pre-Season Test 2;Nicholas Latifi;latifi;Williams;williams;20;11;0;306578;5487.389;55.86955836373182;1;53.533859896720436
+7/5/2020 13:10;2020;Pre-Season Test 2;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;13;12;0;306578;;;1;53.99344714790341
+7/5/2020 13:10;2020;Pre-Season Test 2;Alexander Albon;albon;Red Bull Racing;red_bull;4;13;0;306578;;;1;54.59070133035341
+7/5/2020 13:10;2020;Pre-Season Test 2;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;19;14;0;306578;;;0;53.600607467070766
+7/5/2020 13:10;2020;Pre-Season Test 2;George Russell;russell;Williams;williams;17;15;0;306578;;;0;53.73192394282973
+7/5/2020 13:10;2020;Pre-Season Test 2;Romain Grosjean;grosjean;Haas F1 Team;haas;15;16;0;306578;;;0;53.86406718927824
+7/5/2020 13:10;2020;Pre-Season Test 2;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;17;0;306578;;;0;53.79732399623305
+7/5/2020 13:10;2020;Pre-Season Test 2;Lance Stroll;stroll;Racing Point;racing_point;9;18;0;306578;;;0;54.263933782018846
+7/5/2020 13:10;2020;Pre-Season Test 2;Daniel Ricciardo;ricciardo;Renault;renault;10;19;0;306578;;;0;54.19414335757408
+7/5/2020 13:10;2020;Pre-Season Test 2;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;20;0;306578;;;0;54.72351229573155
+9/27/2020 11:10;2020;Russian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;1;1;309944;5640.364;54.95106344200481;1;55.26139431370299
+9/27/2020 11:10;2020;Russian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;2;1;309944;5648.093;54.87586695190748;1;55.32661537504359
+9/27/2020 11:10;2020;Russian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;3;1;309944;5663.093;54.73051563871545;1;55.392566943893605
+9/27/2020 11:10;2020;Russian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;4;4;0;309944;5670.922;54.654957342033626;1;55.19662703733842
+9/27/2020 11:10;2020;Russian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;5;5;0;309944;5692.429;54.44846128076433;1;55.12663846959119
+9/27/2020 11:10;2020;Russian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;10;6;0;309944;5702.55;54.35182506071845;1;54.798108739436316
+9/27/2020 11:10;2020;Russian Grand Prix;Esteban Ocon;ocon;Renault;renault;7;7;0;309944;5708.37;54.29641035882398;1;54.996500044351954
+9/27/2020 11:10;2020;Russian Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;11;8;0;309944;5709.104;54.28942965481098;1;54.72830704029748
+9/27/2020 11:10;2020;Russian Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;9;9;0;309944;5730.13;54.09022133878289;1;54.860869531558
+9/27/2020 11:10;2020;Russian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;15;10;0;309944;5738.224;54.01392486595155;1;54.46914193771429
+9/27/2020 11:10;2020;Russian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;17;11;0;309944;5748.63237735849;53.91612815958497;1;54.33417990849917
+9/27/2020 11:10;2020;Russian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;18;12;0;309944;5748.63237735849;53.91612815958497;1;54.268670262463054
+9/27/2020 11:10;2020;Russian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;14;13;0;309944;5748.63237735849;53.91612815958497;1;54.535139429012396
+9/27/2020 11:10;2020;Russian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;19;14;0;309944;5748.63237735849;53.91612815958497;1;54.20371054638281
+9/27/2020 11:10;2020;Russian Grand Prix;Lando Norris;norris;McLaren;mclaren;8;15;0;309944;5748.63237735849;53.91612815958497;1;54.92694350378665
+9/27/2020 11:10;2020;Russian Grand Prix;Nicholas Latifi;latifi;Williams;williams;20;16;0;309944;5748.63237735849;53.91612815958497;1;54.13696297603248
+9/27/2020 11:10;2020;Russian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;16;17;0;309944;5748.63237735849;53.91612815958497;1;54.40129186204926
+9/27/2020 11:10;2020;Russian Grand Prix;George Russell;russell;Williams;williams;13;18;0;309944;5748.63237735849;53.91612815958497;1;54.59854064830583
+9/27/2020 11:10;2020;Russian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;6;19;0;309944;;;0;55.058725465528816
+9/27/2020 11:10;2020;Russian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;12;20;0;309944;;;0;54.66940164170784
+12/6/2020 17:10;2020;Sakhir Grand Prix;Sergio Perez;perez;Racing Point;racing_point;5;1;1;470844;5475.114;85.99711348476032;1;83.91940562262664
+12/6/2020 17:10;2020;Sakhir Grand Prix;Esteban Ocon;ocon;Renault;renault;11;2;1;470844;5485.632;85.83222498337476;1;83.52164341001713
+12/6/2020 17:10;2020;Sakhir Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;10;3;1;470844;5486.983;85.81109145043824;1;83.5898154466191
+12/6/2020 17:10;2020;Sakhir Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;8;4;0;470844;5487.694;85.79997354079873;1;83.71562564427602
+12/6/2020 17:10;2020;Sakhir Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;7;5;0;470844;5488.444;85.7882489098914;1;83.78353864833839
+12/6/2020 17:10;2020;Sakhir Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;12;6;0;470844;5488.956;85.78024673544478;1;83.45543414916656
+12/6/2020 17:10;2020;Sakhir Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;6;7;0;470844;5489.648;85.7694336686068;1;83.84635606483178
+12/6/2020 17:10;2020;Sakhir Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;8;0;470844;5490.503;85.75607735757544;1;84.18180811861426
+12/6/2020 17:10;2020;Sakhir Grand Prix;George Russell;russell;Mercedes;mercedes;2;9;0;470844;5493.67;85.7066405517623;1;84.11435427579035
+12/6/2020 17:10;2020;Sakhir Grand Prix;Lando Norris;norris;McLaren;mclaren;19;10;0;470844;5494.655;85.69127634037078;1;82.99093802366473
+12/6/2020 17:10;2020;Sakhir Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;9;11;0;470844;5495.641;85.67590204673122;1;83.64952652338724
+12/6/2020 17:10;2020;Sakhir Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;13;12;0;470844;5497.725;85.64342523498355;1;83.38967482738265
+12/6/2020 17:10;2020;Sakhir Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;14;13;0;470844;5499.225;85.62006464547277;1;83.32047211995145
+12/6/2020 17:10;2020;Sakhir Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;18;14;0;470844;5501.267;85.58828357176628;1;83.05824594475305
+12/6/2020 17:10;2020;Sakhir Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;15;15;0;470844;5507.484;85.49166915419092;1;83.25496247391533
+12/6/2020 17:10;2020;Sakhir Grand Prix;Jack Aitken;aitken;Williams;williams;17;16;0;470844;5508.788;85.4714321916182;1;83.12429958565639
+12/6/2020 17:10;2020;Sakhir Grand Prix;Pietro Fittipaldi;pietro_fittipaldi;Haas F1 Team;haas;20;17;0;470844;5511.972;85.42205947345161;1;82.92569415563284
+12/6/2020 17:10;2020;Sakhir Grand Prix;Nicholas Latifi;latifi;Williams;williams;16;18;0;470844;;;0;83.18913359402578
+12/6/2020 17:10;2020;Sakhir Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;19;0;470844;;;0;84.04939396033181
+12/6/2020 17:10;2020;Sakhir Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;20;0;470844;;;0;83.98203617051163
+8/16/2020 13:10;2020;Spanish Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;416856;5505.279;75.71932321686148;1;74.518776131284
+8/16/2020 13:10;2020;Spanish Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;2;1;416856;5529.456;75.38824795784612;1;74.38694615589297
+8/16/2020 13:10;2020;Spanish Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;3;1;416856;5550.031;75.10876966272801;1;74.4534819076344
+8/16/2020 13:10;2020;Spanish Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;5;4;0;416856;5589.370378787879;74.58013546248479;1;74.25675967488534
+8/16/2020 13:10;2020;Spanish Grand Prix;Sergio Perez;perez;Racing Point;racing_point;4;5;0;416856;5589.370378787879;74.58013546248479;1;74.32283622472882
+8/16/2020 13:10;2020;Spanish Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;7;6;0;416856;5589.370378787879;74.58013546248479;1;74.1190562463782
+8/16/2020 13:10;2020;Spanish Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;11;7;0;416856;5589.370378787879;74.58013546248479;1;73.85898383602584
+8/16/2020 13:10;2020;Spanish Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;8;0;416856;5589.370378787879;74.58013546248479;1;74.18825678397381
+8/16/2020 13:10;2020;Spanish Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;10;9;0;416856;5589.370378787879;74.58013546248479;1;73.92120031240738
+8/16/2020 13:10;2020;Spanish Grand Prix;Lando Norris;norris;McLaren;mclaren;8;10;0;416856;5589.370378787879;74.58013546248479;1;74.05315269117705
+8/16/2020 13:10;2020;Spanish Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;13;11;0;416856;5589.370378787879;74.58013546248479;1;73.72582040465348
+8/16/2020 13:10;2020;Spanish Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;12;12;0;416856;5589.370378787879;74.58013546248479;1;73.78863782114686
+8/16/2020 13:10;2020;Spanish Grand Prix;Esteban Ocon;ocon;Renault;renault;15;13;0;416856;5589.370378787879;74.58013546248479;1;73.59568197941424
+8/16/2020 13:10;2020;Spanish Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;14;0;416856;5589.370378787879;74.58013546248479;1;73.65931176647828
+8/16/2020 13:10;2020;Spanish Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;16;15;0;416856;5589.370378787879;74.58013546248479;1;73.52663626293548
+8/16/2020 13:10;2020;Spanish Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;20;16;0;416856;5589.370378787879;74.58013546248479;1;73.26275387626653
+8/16/2020 13:10;2020;Spanish Grand Prix;George Russell;russell;Williams;williams;18;17;0;416856;5589.370378787879;74.58013546248479;1;73.39535780299116
+8/16/2020 13:10;2020;Spanish Grand Prix;Nicholas Latifi;latifi;Williams;williams;19;18;0;416856;5673.461757575758;73.47471752028174;1;73.32905056996388
+8/16/2020 13:10;2020;Spanish Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;17;19;0;416856;5673.461757575758;73.47471752028174;1;73.46162264289865
+8/16/2020 13:10;2020;Spanish Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;9;20;0;416856;;;0;73.99019633336772
+7/12/2020 13:10;2020;Styrian Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;306578;4970.683;61.677238319160566;1;54.7923115047138
+7/12/2020 13:10;2020;Styrian Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;4;2;1;306578;4984.402;61.50747873064813;1;54.59526046798217
+7/12/2020 13:10;2020;Styrian Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;3;1;306578;5004.381;61.26192230367752;1;54.72635993586378
+7/12/2020 13:10;2020;Styrian Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;6;4;0;306578;5015.083;61.13119164727683;1;54.461792157403615
+7/12/2020 13:10;2020;Styrian Grand Prix;Lando Norris;norris;McLaren;mclaren;9;5;0;306578;5032.153;60.92382326213054;1;54.26080965806583
+7/12/2020 13:10;2020;Styrian Grand Prix;Sergio Perez;perez;Racing Point;racing_point;17;6;0;306578;5033.07;60.91272324843486;1;53.73995231312542
+7/12/2020 13:10;2020;Styrian Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;12;7;0;306578;5033.136;60.9119244939934;1;54.06914620252804
+7/12/2020 13:10;2020;Styrian Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;8;8;0;306578;5033.274;60.91025443876093;1;54.32874781078834
+7/12/2020 13:10;2020;Styrian Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;3;9;0;306578;5041.574183098592;60.80997499308335;1;54.65610524597205
+7/12/2020 13:10;2020;Styrian Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;13;10;0;306578;5041.574183098592;60.80997499308335;1;53.99629478803564
+7/12/2020 13:10;2020;Styrian Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;16;11;0;306578;5041.574183098592;60.80997499308335;1;53.80109032682605
+7/12/2020 13:10;2020;Styrian Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;15;12;0;306578;5041.574183098592;60.80997499308335;1;53.866050042906295
+7/12/2020 13:10;2020;Styrian Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;20;13;0;306578;5041.574183098592;60.80997499308335;1;53.537522796705396
+7/12/2020 13:10;2020;Styrian Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;19;14;0;306578;5041.574183098592;60.80997499308335;1;53.602167656237334
+7/12/2020 13:10;2020;Styrian Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;7;15;0;306578;5041.574183098592;60.80997499308335;1;54.392370905460226
+7/12/2020 13:10;2020;Styrian Grand Prix;George Russell;russell;Williams;williams;11;16;0;306578;5112.465366197183;59.96676320333542;1;54.13004202220805
+7/12/2020 13:10;2020;Styrian Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;17;0;306578;5112.465366197183;59.96676320333542;1;53.6684643499347
+7/12/2020 13:10;2020;Styrian Grand Prix;Esteban Ocon;ocon;Renault;renault;5;18;0;306578;;;0;54.52800141825418
+7/12/2020 13:10;2020;Styrian Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;14;19;0;306578;;;0;53.93433967409245
+7/12/2020 13:10;2020;Styrian Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;10;20;0;306578;;;0;54.198397615996655
+11/15/2020 10:10;2020;Turkish Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;6;1;1;309604;6139.313;50.429746781113785;1;54.99849172561645
+11/15/2020 10:10;2020;Turkish Grand Prix;Sergio Perez;perez;Racing Point;racing_point;3;2;1;309604;6170.946;50.1712379268916;1;55.19782225830735
+11/15/2020 10:10;2020;Turkish Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;11;3;1;309604;6171.273;50.16857948108923;1;54.668091463063355
+11/15/2020 10:10;2020;Turkish Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;12;4;0;309604;6173.171;50.15315467528762;1;54.6016687407822
+11/15/2020 10:10;2020;Turkish Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;15;5;0;309604;6173.676;50.14905220163805;1;54.401136621087595
+11/15/2020 10:10;2020;Turkish Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;6;0;309604;6184.186;50.063824082910834;1;55.2619321894715
+11/15/2020 10:10;2020;Turkish Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;4;7;0;309604;6185.797;50.05078569503655;1;55.12912122409337
+11/15/2020 10:10;2020;Turkish Grand Prix;Lando Norris;norris;McLaren;mclaren;14;8;0;309604;6200.572;49.9315224466388;1;54.46698987896848
+11/15/2020 10:10;2020;Turkish Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;1;9;0;309604;6211.666;49.84234503271747;1;55.32938092808692
+11/15/2020 10:10;2020;Turkish Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;5;10;0;309604;6234.773;49.65762185728334;1;55.061955284019106
+11/15/2020 10:10;2020;Turkish Grand Prix;Esteban Ocon;ocon;Renault;renault;7;11;0;309604;6246.809086206897;49.56194366234323;1;54.93181685877987
+11/15/2020 10:10;2020;Turkish Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;16;12;0;309604;6246.809086206897;49.56194366234323;1;54.334231822020314
+11/15/2020 10:10;2020;Turkish Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;19;13;0;309604;6246.809086206897;49.56194366234323;1;54.13740228057576
+11/15/2020 10:10;2020;Turkish Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;9;14;0;309604;6246.809086206897;49.56194366234323;1;54.80144068888482
+11/15/2020 10:10;2020;Turkish Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;8;15;0;309604;6246.809086206897;49.56194366234323;1;54.863689832761885
+11/15/2020 10:10;2020;Turkish Grand Prix;George Russell;russell;Williams;williams;20;16;0;309604;6246.809086206897;49.56194366234323;1;54.07270861694664
+11/15/2020 10:10;2020;Turkish Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;13;17;0;309604;;;1;54.53337910959604
+11/15/2020 10:10;2020;Turkish Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;17;18;0;309604;;;0;54.27073026993616
+11/15/2020 10:10;2020;Turkish Grand Prix;Nicholas Latifi;latifi;Williams;williams;20;19;0;309604;;;0;54.07227979046039
+11/15/2020 10:10;2020;Turkish Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;10;20;0;309604;;;0;54.73064556871419
+9/13/2020 13:10;2020;Tuscan Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;309455;8375.06;36.94958603281648;1;55.297049694252465
+9/13/2020 13:10;2020;Tuscan Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;2;2;1;309455;8379.94;36.92806869738924;1;55.23175547060286
+9/13/2020 13:10;2020;Tuscan Grand Prix;Alexander Albon;albon;Red Bull Racing;red_bull;4;3;1;309455;8383.124;36.91404302262498;1;55.09828716002431
+9/13/2020 13:10;2020;Tuscan Grand Prix;Daniel Ricciardo;ricciardo;Renault;renault;8;4;0;309455;8385.477;36.90368478740088;1;54.83348600032701
+9/13/2020 13:10;2020;Tuscan Grand Prix;Sergio Perez;perez;Racing Point;racing_point;7;5;0;309455;8390.71;36.88066921631185;1;54.90347456807424
+9/13/2020 13:10;2020;Tuscan Grand Prix;Lando Norris;norris;McLaren;mclaren;11;6;0;309455;8393.943;36.8664643064648;1;54.63379103452247
+9/13/2020 13:10;2020;Tuscan Grand Prix;Daniil Kvyat;kvyat;AlphaTauri;alphatauri;12;7;0;309455;8396.816;36.853850316596194;1;54.56691138411532
+9/13/2020 13:10;2020;Tuscan Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;5;8;0;309455;8403.405;36.824953694365554;1;55.03198352250025
+9/13/2020 13:10;2020;Tuscan Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;13;9;0;309455;8404.83;36.81871019401939;1;54.50346373598776
+9/13/2020 13:10;2020;Tuscan Grand Prix;Sebastian Vettel;vettel;Ferrari;ferrari;14;10;0;309455;8405.043;36.8177771368927;1;54.439622179371256
+9/13/2020 13:10;2020;Tuscan Grand Prix;George Russell;russell;Williams;williams;18;11;0;309455;8407.464;36.807175148177855;1;54.173631365959615
+9/13/2020 13:10;2020;Tuscan Grand Prix;Romain Grosjean;grosjean;Haas F1 Team;haas;15;12;0;309455;8417.096;36.76505531123799;1;54.37165301894913
+9/13/2020 13:10;2020;Tuscan Grand Prix;Lance Stroll;stroll;Racing Point;racing_point;6;13;0;309455;;;0;54.96915483131279
+9/13/2020 13:10;2020;Tuscan Grand Prix;Esteban Ocon;ocon;Renault;renault;10;14;0;309455;;;0;54.70334757508777
+9/13/2020 13:10;2020;Tuscan Grand Prix;Nicholas Latifi;latifi;Williams;williams;19;15;0;309455;;;0;54.107324132932355
+9/13/2020 13:10;2020;Tuscan Grand Prix;Kevin Magnussen;kevin_magnussen;Haas F1 Team;haas;20;16;0;309455;;;0;54.041396199739886
+9/13/2020 13:10;2020;Tuscan Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;17;17;0;309455;;;0;54.23866265885803
+9/13/2020 13:10;2020;Tuscan Grand Prix;Carlos Sainz;sainz;McLaren;mclaren;9;18;0;309455;;;0;54.76557299626463
+9/13/2020 13:10;2020;Tuscan Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;19;0;309455;;;0;55.16521971886144
+9/13/2020 13:10;2020;Tuscan Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;16;20;0;309455;;;0;54.304203436129754
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Sergio Perez;perez;Red Bull Racing;red_bull;6;1;1;306153;8016.41;38.19078614991;1;54.37373991127951
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Sebastian Vettel;vettel;Aston Martin;aston_martin;11;2;1;306153;8017.795;38.18418904449416;1;54.041734499570175
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;4;3;1;306153;8019.172;38.17763230418303;1;54.50091556081101
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;4;0;306153;8020.238;38.17255797147167;1;54.701668394853385
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Lando Norris;norris;McLaren;mclaren;9;5;0;306153;8021.164;38.168151156116494;1;54.17171909379358
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Fernando Alonso;alonso;Alpine;alpine;8;6;0;306153;8022.792;38.16040600329661;1;54.23878417419112
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;7;7;0;306153;8023.034;38.15925496514162;1;54.30250719778244
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Carlos Sainz;sainz;Ferrari;ferrari;5;8;0;306153;8024.119;38.15409517231736;1;54.43746741917656
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Daniel Ricciardo;ricciardo;McLaren;mclaren;13;9;0;306153;8025.284;38.14855648722214;1;53.90790446837074
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;10;0;306153;8025.986;38.14521978981772;1;53.84375657563582
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;20;11;0;306153;8026.664;38.14199772159393;1;53.44719868542406
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;10;12;0;306153;8027.674;38.13719889472343;1;54.11089946446382
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;17;13;0;306153;8030.651;38.1230612561796;1;53.644170085699315
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Nikita Mazepin;mazepin;Haas F1 Team;haas;18;14;0;306153;8030.725;38.12270996703286;1;53.578281331588336
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;15;0;306153;8034.078;38.10679956057185;1;54.63734253390053
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Nicholas Latifi;latifi;Williams;williams;16;16;0;306153;8059.789;37.98523757880014;1;53.711130598744475
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;George Russell;russell;Williams;williams;15;17;0;306153;;;0;53.777437831771735
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;18;0;306153;;;0;54.57139096505051
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Lance Stroll;stroll;Aston Martin;aston_martin;19;19;0;306153;;;0;53.51507149013681
+6/6/2021 12:00;2021;Azerbaijan Grand Prix;Esteban Ocon;ocon;Alpine;alpine;12;20;0;306153;;;0;53.97639063260444
+3/28/2021 15:00;2021;Bahrain Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;308484;5523.897;55.84535700068267;1;55.0505748999713
+3/28/2021 15:00;2021;Bahrain Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;1;2;1;308484;5524.642;55.83782623380846;1;55.11638014420332
+3/28/2021 15:00;2021;Bahrain Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;3;1;308484;5561.28;55.46996374935267;1;54.98528067632171
+3/28/2021 15:00;2021;Bahrain Grand Prix;Lando Norris;norris;McLaren;mclaren;7;4;0;308484;5570.363;55.3795147641186;1;54.716708272946384
+3/28/2021 15:00;2021;Bahrain Grand Prix;Sergio Perez;perez;Red Bull Racing;red_bull;20;5;0;308484;5575.944;55.32408503385256;1;53.86467458577608
+3/28/2021 15:00;2021;Bahrain Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;6;0;308484;5582.987;55.25429308719508;1;54.91726554130112
+3/28/2021 15:00;2021;Bahrain Grand Prix;Daniel Ricciardo;ricciardo;McLaren;mclaren;6;7;0;308484;;;1;54.782285680228625
+3/28/2021 15:00;2021;Bahrain Grand Prix;Carlos Sainz;sainz;Ferrari;ferrari;8;8;0;308484;;;1;54.6530645656243
+3/28/2021 15:00;2021;Bahrain Grand Prix;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;13;9;0;308484;;;1;54.32046912460712
+3/28/2021 15:00;2021;Bahrain Grand Prix;Lance Stroll;stroll;Aston Martin;aston_martin;10;10;0;308484;;;1;54.52120951507673
+3/28/2021 15:00;2021;Bahrain Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;11;0;308484;;;1;54.256988941706595
+3/28/2021 15:00;2021;Bahrain Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;12;12;0;308484;5621.844140350877;54.87238569739974;1;54.38745830382296
+3/28/2021 15:00;2021;Bahrain Grand Prix;Esteban Ocon;ocon;Alpine;alpine;16;13;0;308484;5621.844140350877;54.87238569739974;1;54.12610937251116
+3/28/2021 15:00;2021;Bahrain Grand Prix;George Russell;russell;Williams;williams;15;14;0;308484;5621.844140350877;54.87238569739974;1;54.190670197842515
+3/28/2021 15:00;2021;Bahrain Grand Prix;Sebastian Vettel;vettel;Aston Martin;aston_martin;20;15;0;308484;5621.844140350877;54.87238569739974;1;53.86206120677182
+3/28/2021 15:00;2021;Bahrain Grand Prix;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;18;16;0;308484;5621.844140350877;54.87238569739974;1;53.991524045229085
+3/28/2021 15:00;2021;Bahrain Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;5;17;0;308484;;;1;54.84826952034078
+3/28/2021 15:00;2021;Bahrain Grand Prix;Nicholas Latifi;latifi;Williams;williams;17;18;0;308484;;;1;54.05848455827424
+3/28/2021 15:00;2021;Bahrain Grand Prix;Fernando Alonso;alonso;Alpine;alpine;9;19;0;308484;;;0;54.58613813372088
+3/28/2021 15:00;2021;Bahrain Grand Prix;Nikita Mazepin;mazepin;Haas F1 Team;haas;19;20;0;308484;;;0;53.925635291118105
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;1;1;309267;7354.598;42.0508367690525;1;55.13525433286359
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;2;1;309267;7376.598;41.92542415894156;1;55.26708430825462
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Lando Norris;norris;McLaren;mclaren;7;3;1;309267;7378.3;41.91575295122183;1;54.867339274688675
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;4;0;309267;7380.177;41.90509252013874;1;55.06789654304342
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Carlos Sainz;sainz;Ferrari;ferrari;11;5;0;309267;7381.634;41.89682121871662;1;54.60606034774355
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Daniel Ricciardo;ricciardo;McLaren;mclaren;6;6;0;309267;7405.818;41.7600054443682;1;54.93291668197092
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;5;7;0;309267;7407.416;41.75099656884398;1;54.99890052208307
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Lance Stroll;stroll;Aston Martin;aston_martin;10;8;0;309267;7411.507;41.72795087422841;1;54.671840516819024
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Esteban Ocon;ocon;Alpine;alpine;9;9;0;309267;;;1;54.737889220040564
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Fernando Alonso;alonso;Alpine;alpine;15;10;0;309267;;;1;54.34149869621709
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Sergio Perez;perez;Red Bull Racing;red_bull;2;11;0;309267;;;1;55.20111690525664
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;20;12;0;309267;;;1;54.00995128056232
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;16;13;0;309267;;;1;54.275863130366865
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;17;14;0;309267;7472.240968253968;41.38878835866373;1;54.208697272860185
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Sebastian Vettel;vettel;Aston Martin;aston_martin;20;15;0;309267;;;1;54.01269220851411
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;18;16;0;309267;7589.883936507937;40.74726340839041;1;54.142155046971375
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Nikita Mazepin;mazepin;Haas F1 Team;haas;19;17;0;309267;7589.883936507937;40.74726340839041;1;54.0762662928604
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;8;18;0;309267;;;0;54.806519645358925
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;George Russell;russell;Williams;williams;12;19;0;309267;;;0;54.53893641920786
+4/18/2021 13:00;2021;Emilia Romagna Grand Prix;Nicholas Latifi;latifi;Williams;williams;14;20;0;309267;;;0;54.40675077963958
+5/23/2021 13:00;2021;Monaco Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;1;1;260286;5936.82;43.84266324395889;1;46.43385899241293
+5/23/2021 13:00;2021;Monaco Grand Prix;Carlos Sainz;sainz;Ferrari;ferrari;4;2;1;260286;5945.788;43.77653559124544;1;46.29993544653898
+5/23/2021 13:00;2021;Monaco Grand Prix;Lando Norris;norris;McLaren;mclaren;5;3;1;260286;5956.247;43.69966524222384;1;46.23182234077903
+5/23/2021 13:00;2021;Monaco Grand Prix;Sergio Perez;perez;Red Bull Racing;red_bull;9;4;0;260286;5957.31;43.69186763824612;1;45.97269431247787
+5/23/2021 13:00;2021;Monaco Grand Prix;Sebastian Vettel;vettel;Aston Martin;aston_martin;8;5;0;260286;5989.411;43.45769558976667;1;46.03595934001462
+5/23/2021 13:00;2021;Monaco Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;6;6;0;260286;5990.716;43.44822889284018;1;46.16574836855039
+5/23/2021 13:00;2021;Monaco Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;7;7;0;260286;6005.051;43.34451114570051;1;46.10454012201686
+5/23/2021 13:00;2021;Monaco Grand Prix;Lance Stroll;stroll;Aston Martin;aston_martin;13;8;0;260286;6013.807833333333;43.28139628228338;1;45.70693155020431
+5/23/2021 13:00;2021;Monaco Grand Prix;Esteban Ocon;ocon;Alpine;alpine;11;9;0;260286;6013.807833333333;43.28139628228338;1;45.83885865996686
+5/23/2021 13:00;2021;Monaco Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;10;10;0;260286;6013.807833333333;43.28139628228338;1;45.902572371655616
+5/23/2021 13:00;2021;Monaco Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;14;11;0;260286;6013.807833333333;43.28139628228338;1;45.64034619645722
+5/23/2021 13:00;2021;Monaco Grand Prix;Daniel Ricciardo;ricciardo;McLaren;mclaren;12;12;0;260286;6013.807833333333;43.28139628228338;1;45.770372495733156
+5/23/2021 13:00;2021;Monaco Grand Prix;Fernando Alonso;alonso;Alpine;alpine;17;13;0;260286;6013.807833333333;43.28139628228338;1;45.44246813614338
+5/23/2021 13:00;2021;Monaco Grand Prix;George Russell;russell;Williams;williams;15;14;0;260286;6013.807833333333;43.28139628228338;1;45.57402745259314
+5/23/2021 13:00;2021;Monaco Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;15;0;260286;6013.807833333333;43.28139628228338;1;45.37596340648385
+5/23/2021 13:00;2021;Monaco Grand Prix;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;16;16;0;260286;6013.807833333333;43.28139628228338;1;45.506191159734705
+5/23/2021 13:00;2021;Monaco Grand Prix;Nikita Mazepin;mazepin;Haas F1 Team;haas;19;17;0;260286;6167.7835;42.20089761581288;1;45.308992545868726
+5/23/2021 13:00;2021;Monaco Grand Prix;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;20;18;0;260286;6167.7835;42.20089761581288;1;45.24312448689768
+5/23/2021 13:00;2021;Monaco Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;19;0;260286;;;0;46.36863793107233
+5/23/2021 13:00;2021;Monaco Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;1;20;0;260286;;;0;46.498258015674786
+5/2/2021 14:00;2021;Portuguese Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;2;1;1;307098;5671.421;54.148334253443714;1;54.816514926868955
+5/2/2021 14:00;2021;Portuguese Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;3;2;1;307098;5700.569;53.87146440995627;1;54.75056335801894
+5/2/2021 14:00;2021;Portuguese Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;1;3;1;307098;5704.951;53.83008548189108;1;54.88297751630138
+5/2/2021 14:00;2021;Portuguese Grand Prix;Sergio Perez;perez;Red Bull Racing;red_bull;4;4;0;307098;5711.156;53.77160070570652;1;54.68466911732997
+5/2/2021 14:00;2021;Portuguese Grand Prix;Lando Norris;norris;McLaren;mclaren;7;5;0;307098;5722.79;53.66228710122161;1;54.48264829984403
+5/2/2021 14:00;2021;Portuguese Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;8;6;0;307098;5727.202;53.62094789043585;1;54.41969194203471
+5/2/2021 14:00;2021;Portuguese Grand Prix;Esteban Ocon;ocon;Alpine;alpine;6;7;0;307098;5735.17;53.54645110781372;1;54.55083346481896
+5/2/2021 14:00;2021;Portuguese Grand Prix;Fernando Alonso;alonso;Alpine;alpine;13;8;0;307098;5736.229;53.53656557295742;1;54.08856453445447
+5/2/2021 14:00;2021;Portuguese Grand Prix;Daniel Ricciardo;ricciardo;McLaren;mclaren;16;9;0;307098;5746.79;53.43818027107307;1;53.889441641716125
+5/2/2021 14:00;2021;Portuguese Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;9;10;0;307098;5747.884;53.42800933352169;1;54.35069592107437
+5/2/2021 14:00;2021;Portuguese Grand Prix;Carlos Sainz;sainz;Ferrari;ferrari;5;11;0;307098;5750.376;53.40485561291992;1;54.616639812144996
+5/2/2021 14:00;2021;Portuguese Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;12;12;0;307098;5758.547909090909;53.32906921121386;1;54.15339833072061
+5/2/2021 14:00;2021;Portuguese Grand Prix;Sebastian Vettel;vettel;Aston Martin;aston_martin;10;13;0;307098;5758.547909090909;53.32906921121386;1;54.28678529907962
+5/2/2021 14:00;2021;Portuguese Grand Prix;Lance Stroll;stroll;Aston Martin;aston_martin;17;14;0;307098;5758.547909090909;53.32906921121386;1;53.82600069618727
+5/2/2021 14:00;2021;Portuguese Grand Prix;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;14;15;0;307098;5758.547909090909;53.32906921121386;1;54.02053074496376
+5/2/2021 14:00;2021;Portuguese Grand Prix;George Russell;russell;Williams;williams;11;16;0;307098;5758.547909090909;53.32906921121386;1;54.22012385090422
+5/2/2021 14:00;2021;Portuguese Grand Prix;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;19;17;0;307098;5845.674818181818;52.5342256542961;1;53.69158566558571
+5/2/2021 14:00;2021;Portuguese Grand Prix;Nicholas Latifi;latifi;Williams;williams;18;18;0;307098;5845.674818181818;52.5342256542961;1;53.75854617863087
+5/2/2021 14:00;2021;Portuguese Grand Prix;Nikita Mazepin;mazepin;Haas F1 Team;haas;20;19;0;307098;5845.674818181818;52.5342256542961;1;53.62569691147474
+5/2/2021 14:00;2021;Portuguese Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;15;20;0;307098;;;0;53.95705056206323
+10/24/2021 19:00;2021;Pre-Season Test;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;1;1;1;308728;5676.552;54.38653605216688;1;55.17290696138029
+10/24/2021 19:00;2021;Pre-Season Test;Lewis Hamilton;hamilton;Mercedes;mercedes;2;2;1;308728;5677.885;54.37376769695054;1;55.107101717148275
+10/24/2021 19:00;2021;Pre-Season Test;Sergio Perez;perez;Red Bull Racing;red_bull;3;3;1;308728;5718.775;53.98498804376812;1;55.041134314150305
+10/24/2021 19:00;2021;Pre-Season Test;Charles Leclerc;leclerc;Ferrari;ferrari;4;4;0;308728;5728.798;53.89053689796708;1;54.97379235847809
+10/24/2021 19:00;2021;Pre-Season Test;Daniel Ricciardo;ricciardo;McLaren;mclaren;6;5;0;308728;5753.406;53.660040678512864;1;54.8388124974056
+10/24/2021 19:00;2021;Pre-Season Test;Valtteri Bottas;bottas;Mercedes;mercedes;9;6;0;308728;5756.68;53.62952257203805;1;54.64653705425259
+10/24/2021 19:00;2021;Pre-Season Test;Carlos Sainz;sainz;Ferrari;ferrari;5;7;0;308728;5760.097;53.597708510811536;1;54.907226602424316
+10/24/2021 19:00;2021;Pre-Season Test;Lando Norris;norris;McLaren;mclaren;7;8;0;308728;5760.947;53.58980042690898;1;54.77323509012336
+10/24/2021 19:00;2021;Pre-Season Test;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;10;9;0;308728;5779.426053571428;53.41845317135251;1;54.57463116140714
+10/24/2021 19:00;2021;Pre-Season Test;Sebastian Vettel;vettel;Aston Martin;aston_martin;18;10;0;308728;5779.426053571428;53.41845317135251;1;54.05034483703082
+10/24/2021 19:00;2021;Pre-Season Test;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;12;11;0;308728;5779.426053571428;53.41845317135251;1;54.44398512099993
+10/24/2021 19:00;2021;Pre-Season Test;Lance Stroll;stroll;Aston Martin;aston_martin;13;12;0;308728;5779.426053571428;53.41845317135251;1;54.380101112630655
+10/24/2021 19:00;2021;Pre-Season Test;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;15;13;0;308728;5779.426053571428;53.41845317135251;1;54.24763735234256
+10/24/2021 19:00;2021;Pre-Season Test;George Russell;russell;Williams;williams;20;14;0;308728;5779.426053571428;53.41845317135251;1;53.917804982314415
+10/24/2021 19:00;2021;Pre-Season Test;Nicholas Latifi;latifi;Williams;williams;14;15;0;308728;5779.426053571428;53.41845317135251;1;54.312646595074256
+10/24/2021 19:00;2021;Pre-Season Test;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;16;16;0;308728;5882.300107142857;52.48423140211983;1;54.179807675488085
+10/24/2021 19:00;2021;Pre-Season Test;Nikita Mazepin;mazepin;Haas F1 Team;haas;17;17;0;308728;5882.300107142857;52.48423140211983;1;54.113918921377106
+10/24/2021 19:00;2021;Pre-Season Test;Fernando Alonso;alonso;Alpine;alpine;19;18;0;308728;;;0;53.9838808854877
+10/24/2021 19:00;2021;Pre-Season Test;Esteban Ocon;ocon;Alpine;alpine;11;19;0;308728;;;0;54.512028222393205
+10/24/2021 19:00;2021;Pre-Season Test;Pierre Gasly;gasly;AlphaTauri;alphatauri;8;20;0;308728;;;0;54.70716111789471
+5/9/2021 13:00;2021;Spanish Grand Prix;Lewis Hamilton;hamilton;Mercedes;mercedes;1;1;1;416856;5587.68;74.60269736276952;1;74.518776131284
+5/9/2021 13:00;2021;Spanish Grand Prix;Max Verstappen;max_verstappen;Red Bull Racing;red_bull;2;2;1;416856;5603.521;74.39179758583934;1;74.45282456243399
+5/9/2021 13:00;2021;Spanish Grand Prix;Valtteri Bottas;bottas;Mercedes;mercedes;3;3;1;416856;5614.29;74.24910362663846;1;74.38760350109338
+5/9/2021 13:00;2021;Spanish Grand Prix;Charles Leclerc;leclerc;Ferrari;ferrari;4;4;0;416856;5642.296;73.88056209741566;1;74.31958836607281
+5/9/2021 13:00;2021;Spanish Grand Prix;Sergio Perez;perez;Red Bull Racing;red_bull;8;5;0;416856;5651.351;73.76218536063324;1;74.05753828903994
+5/9/2021 13:00;2021;Spanish Grand Prix;Daniel Ricciardo;ricciardo;McLaren;mclaren;7;6;0;416856;5661.448;73.63063301120137;1;74.1187300984593
+5/9/2021 13:00;2021;Spanish Grand Prix;Carlos Sainz;sainz;Ferrari;ferrari;6;7;0;416856;5662.35;73.6189038120215;1;74.18714420347801
+5/9/2021 13:00;2021;Spanish Grand Prix;Lando Norris;norris;McLaren;mclaren;9;8;0;416856;5673.473181818182;73.47456956981858;1;73.98727428463603
+5/9/2021 13:00;2021;Spanish Grand Prix;Esteban Ocon;ocon;Alpine;alpine;5;9;0;416856;5673.473181818182;73.47456956981858;1;74.253094669234
+5/9/2021 13:00;2021;Spanish Grand Prix;Pierre Gasly;gasly;AlphaTauri;alphatauri;12;10;0;416856;5673.473181818182;73.47456956981858;1;73.78944349932536
+5/9/2021 13:00;2021;Spanish Grand Prix;Lance Stroll;stroll;Aston Martin;aston_martin;11;11;0;416856;5673.473181818182;73.47456956981858;1;73.85765393330739
+5/9/2021 13:00;2021;Spanish Grand Prix;Kimi R??ikk??nen;raikkonen;Alfa Romeo Racing;alfa;17;12;0;416856;5673.473181818182;73.47456956981858;1;73.46167654685523
+5/9/2021 13:00;2021;Spanish Grand Prix;Sebastian Vettel;vettel;Aston Martin;aston_martin;13;13;0;416856;5673.473181818182;73.47456956981858;1;73.72553287733061
+5/9/2021 13:00;2021;Spanish Grand Prix;George Russell;russell;Williams;williams;15;14;0;416856;5673.473181818182;73.47456956981858;1;73.5929930226142
+5/9/2021 13:00;2021;Spanish Grand Prix;Antonio Giovinazzi;giovinazzi;Alfa Romeo Racing;alfa;14;15;0;416856;5673.473181818182;73.47456956981858;1;73.65802431551262
+5/9/2021 13:00;2021;Spanish Grand Prix;Nicholas Latifi;latifi;Williams;williams;19;16;0;416856;5673.473181818182;73.47456956981858;1;73.32905056996388
+5/9/2021 13:00;2021;Spanish Grand Prix;Fernando Alonso;alonso;Alpine;alpine;10;17;0;416856;5673.473181818182;73.47456956981858;1;73.92258255195155
+5/9/2021 13:00;2021;Spanish Grand Prix;Mick Schumacher;mick_schumacher;Haas F1 Team;haas;18;18;0;416856;5759.266363636364;72.38005219414782;1;73.39384687000076
+5/9/2021 13:00;2021;Spanish Grand Prix;Nikita Mazepin;mazepin;Haas F1 Team;haas;20;19;0;416856;5759.266363636364;72.38005219414782;1;73.26207970934877
+5/9/2021 13:00;2021;Spanish Grand Prix;Yuki Tsunoda;tsunoda;AlphaTauri;alphatauri;16;20;0;416856;;;0;73.52515672975576
