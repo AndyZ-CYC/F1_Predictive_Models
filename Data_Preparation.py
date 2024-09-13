@@ -2,6 +2,7 @@ import fastf1
 import os
 import pandas as pd
 from fastf1 import utils
+fastf1.ergast.interface.BASE_URL = "https://api.jolpi.ca/ergast/f1"
 
 # Determine the path to the cache folder
 script_directory = os.path.dirname(os.path.abspath(__file__))  # Directory of the script
